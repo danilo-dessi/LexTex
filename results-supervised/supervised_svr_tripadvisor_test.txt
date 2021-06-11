@@ -1,0 +1,1157 @@
+text	service	location	cleanliness	business
+We were very close tothe French Quarter but in quiet area.	0.3332628991173439	0.24964017026013516	0.3337060631993096	0.08339086742321124
+We also felt very safe.	0.33336782488804156	0.24978909601322904	0.3336503022016126	0.08319277689711664
+We ate at Cafe du Monde, Johnny Poboys, and Mothers.	0.3331553565579083	0.24989096528429255	0.33336405584164636	0.08358962231615273
+All very good - only don't expect to be waited on .	0.3330104655441297	0.24990628369097379	0.3335411653167087	0.08354208544818775
+These areold time diners which have become famous for their food.	0.333042294731689	0.24994269149694803	0.33333082002780134	0.08368419374356174
+Cleanliness is not a priority in this area - so go with thatin mind.	0.33292170052918685	0.2500421257126692	0.3333757439111665	0.08366042984697762
+Very glad we experienced New Orleans.	0.3332396528243322	0.24978215989535268	0.33359517289111307	0.083383014389202
+New Orleans is a must for every American.	0.3330657223826665	0.24988135318820856	0.3334911279064408	0.08356179652268404
+Had a great time	0.3332581280763762	0.2498760165688964	0.3334911908612558	0.08337466449347171
+I was at the Iberostar Bavaro with friends and family.	0.3331549929666649	0.2499553727111788	0.33339502824043493	0.08349460608172134
+Everyone we traveled with was 19 and older and I must say I am happy we chose the Bavaro.	0.3332416712307037	0.24985908417049826	0.3335158002562149	0.08338344434258324
+Alot less young kids and most of the beach and crazy activities were next door at the dominican so basically our hotel was very relaxing.	0.3333337413110609	0.24974827735305807	0.33347068041344957	0.08344730092243156
+Check in went smoothly.	0.333101056391832	0.25007673666598523	0.3332629787065644	0.08355922823561826
+Hector at the front desk was great.	0.3331736118133335	0.2499334377245155	0.3333481333917095	0.08354481707044142
+Our rooms honestly were a bit smaller then I was expecting but very clean , nice and AC worked great.	0.33338494713460887	0.24964829648296893	0.3336413226281192	0.08332543375430285
+The repfrom Go Go another Hector was also great.	0.33315114478722063	0.25003806214552554	0.33327392252594557	0.08353687054130816
+We did Zip Lining which was great and the caribean festival catamaran.	0.3331629091366027	0.2499792962196067	0.3333356313112429	0.08352216333254787
+We swam with sharks and sting rays.	0.3331770773533529	0.24989074358138258	0.3333737974041316	0.08355838166113304
+If you are looking for a party boat, don't waste your money, if you want to experience the sharks and sting rays this is a good one if not try the all day snorkel, scuba and bbq one.	0.33319089569409893	0.24995677515651252	0.3333883286406569	0.08346400050873165
+A few went on the ATVs and loved it, but a bit more dangerous.	0.3331796829984002	0.24989726464180323	0.33345434712112276	0.08346870523867383
+We loved the beach Bar and julio mayo and Noe.	0.33328661309185087	0.24985859686633374	0.3334443080283039	0.08341048201351141
+At night there is not much Adult entertainment.	0.3330488324261845	0.2499644675363533	0.3332819974512582	0.08370470258620397
+The 19 year olds and the 22 yearolds went to the Star rock cafe at night.	0.3331499091537617	0.2500115575408439	0.33333748879455083	0.08350104451084352
+They met alot of people there.	0.3331573365975708	0.24982013409868103	0.3333041152567104	0.08371841404703773
+We went in early.	0.33310669401776033	0.24999553715957112	0.3333564027726639	0.08354136605000477
+Very long days with scuba and excursions.	0.33317108893115144	0.24981865327657302	0.33344718716078603	0.0835630706314894
+We ate mostly at the buffet that had great choices.	0.3332833962612441	0.24980170243931948	0.33340932047722577	0.08350558082221057
+The steak house and japaneese restaurants were great.	0.33317001853703565	0.24977650435419368	0.33346826174264427	0.0835852153661265
+Make your reservations as soon as you get there.	0.3330805584246165	0.24994005531193894	0.33328515289630173	0.08369423336714277
+Make sure you bring plenty of sun tan lotion-very expensive in the gift shop.	0.3333099484945619	0.24990056018721296	0.3333058502882905	0.08348364102993458
+Also bring comfy shoes, ALOT of walking, take advantage of the golf carts to bring you to the other hotels at night.	0.33323172898234116	0.24995262091556236	0.3332364267285279	0.0835792233735687
+They will also drop you right off at your room if you ask.	0.33338922063334264	0.24990802217303312	0.3332721245924192	0.08343063260120491
+Also it really doesn't matter where your room is located, each section has its benefits.	0.33312168578901125	0.24993150913433923	0.33333413614387464	0.08361266893277479
+We were in 1317 upper unit, directly behind the beach bar, for us that was great.	0.3331314723979093	0.2498323216797432	0.33353770940445227	0.08349849651789515
+If you are traveling with younger kids you might want your rooms closer to the Dominica for the pool and beach activities.	0.3333254062461397	0.24994050462042683	0.3332233710911296	0.08351071804230403
+Also it was verrry HOT.	0.3331147025136387	0.2500255989324324	0.3333589441147041	0.08350075443922468
+Don't go crazy worrying about fancy evening wear, pack as little as possible and bring a clip for the hair.	0.3330954715997107	0.25000114981305605	0.333400471747643	0.08350290683959015
+All the employees there could not have done more or been nicer.	0.33310001358030156	0.24976561228401978	0.33344546960722327	0.08368890452845534
+Don't be afraid and Book now.One suggestion to the hotel.	0.3331855244589788	0.24989226299153933	0.3333551654801708	0.08356704706931094
+Please build one lounge that has AC.	0.3331259516682589	0.2498952560381119	0.33325531227461536	0.08372348001901375
+I like a nice glass of wine in the evening and would like a bit of AC with it.	0.3332553423839062	0.24984157991887493	0.3332691722815769	0.08363390541564211
+(other then the casino bar a bit smokey for non smokers)	0.33311030673388925	0.24982064001665027	0.33344393772353514	0.0836251155259253
+Wyndham - Great Location!	0.33333563499324115	0.2499359101442254	0.3333560365610413	0.08337241830149217
+My husband and I just returned from a 4-day weekend in Boston and had a great time.	0.33320108588982555	0.24995672577033923	0.3333653756396881	0.08347681270014705
+We stayed at the Boston Wyndham and found it was close to many of the attractions, especially Fanueil Hall/Quincy Market.	0.333259986450196	0.24989638317488794	0.3333892102133597	0.08345442016155634
+We took many of the reviewers' advice and signed up for the Wyndham By Request.	0.33318801691949745	0.24990283156449758	0.33332421278734026	0.0835849387286648
+We were able to check-in at 10:30am when we arrived and later in the afternoon received our complimentary snack and drink.	0.3333270050493462	0.24971809482783672	0.3334581976597272	0.08349670246308982
+The staff was very friendly and always willing to help with any questions.	0.3334866769703089	0.24969144442063282	0.3335938580133436	0.08322802059571455
+The only thing we found that our room did not have were drawers to keep our clothes in, so we had to live out of our suitcases.	0.33312134364394413	0.2498689498108126	0.3335584137597314	0.08345129278551201
+Other than that, our room was very clean and quiet.	0.3334698953787744	0.2494205712598818	0.3338289622975749	0.08328057106376893
+Some suggestions for those going for a long weekend trip....Book the Beantown Trolley Tour.	0.33302559443344326	0.24984270104226808	0.333342215545342	0.08378948897894657
+It is the only 2-day tour you can get on and off the trolley at the different stops.	0.33320918077323636	0.24987938681427257	0.3333011422270383	0.08361029018545287
+Buy your tickets at the Wharf, not the concierge - they only have 1-day passes.	0.33288440300382915	0.25017829819873233	0.33316146562473986	0.08377583317269852
+We used this as our main transportation for the first two days and we saw basically everything without getting too overwhelmed.	0.33313738540481264	0.24973336700228072	0.33362353829200325	0.08350570930090334
+Walking the Freedom Trail also helped.	0.33316153300820606	0.2499786718429606	0.3333475526179969	0.08351224253083635
+If you go to Salem, take the Trolley Tour.	0.3332921114978871	0.2499103466533075	0.3333059237637047	0.0834916180851008
+This gives you the basic idea of the city and you can get on and off the trolley.	0.3333085320499569	0.24992722203357057	0.33322585801846	0.08353838789801254
+You will have to take the train to get to Salem, too.	0.33321499714728675	0.25015799781890075	0.3332483464553449	0.08337865857846748
+This was very easy and the concierge gave us train times and directions.	0.33296186916887244	0.250103755858542	0.3333920672122974	0.0835423077602882
+If you are looking for a few nice dinner restaurants, we loved Legal Seafood (at the Wharf) and Plaza III Kansas City Steakhouse (at Fanueil Hall/South Market).	0.3332014000088694	0.24985524543732038	0.3334871143165721	0.08345624023723808
+Both were very good.	0.3331269604851267	0.24969228760721293	0.3337338387141524	0.08344691319350793
+Plaza III is pricey, but well worth the money!	0.3332572706505504	0.24989813538159425	0.3334874168069585	0.08335717716089686
+Also, if you are going during baseball season, you will have to buy a Red Sox hat, T-shirt, etc.	0.33330111985360195	0.24999004532335875	0.33323220962637495	0.08347662519666452
+It is all over the city and you will defintely catch the fever!	0.333427870898109	0.24977496558963544	0.33342442445062903	0.08337273906162666
+Go to a game, too.	0.33306941151884156	0.2501410360302224	0.33329309030303594	0.08349646214789999
+It was so much fun and there are plenty of bars around the park to go to before and after (Game On and Cask 'n Flagon were our favorites).	0.3331967121903466	0.25008678709306553	0.3333085962335361	0.0834079044830519
+Superlative I was impressed by the service and the comfort that	0.3331066899703243	0.2500146902014338	0.33332937624964715	0.08354924357859472
+I found at the Omni - and I will be the first to admit that I am hard to please : ).	0.3331058869487421	0.25013665240975086	0.3332570802831191	0.08350038035838804
+This hotel had a knowledgeable, professional and friendly staff - their recommendations of a Chinese restaurant in nearby Chinatown or of a restaurant in close North Beach were spot-on when I made clear my price range and my expectations.	0.33310770841458087	0.24992509771857024	0.33334213511129945	0.08362505875554935
+The rooms had an understated elegance to them and there was considerable attention to detail - including a starched linen cloth at the foot of the bed for the slippers - a nice touch indeed.	0.33317745457851994	0.24999204696848396	0.3332651585303107	0.08356533992268532
+The location along the cable-car track put me at one end to Market Street and a connection near the top of Nob Hill brought me into either Union Square or Fisherman's Wharf in good time to enjoy the many things that San Francisco had to offer.	0.3330512436821946	0.24996695588215595	0.333258735596579	0.08372306483907045
+Yet, being far enough away from the hectic activity of these places -- especially during this time of year -- made the hotel room a welcome refuge.	0.3331631591757715	0.24992177696925208	0.3333475526155896	0.08356751123938697
+Contrary to other reviews, I found the prices at both the restaurant and the lounge to be comparable and fair considering the location of the hotel in the Financial District and the level of service and quality provided.	0.3331931893443436	0.25000345636470656	0.33326797809200864	0.08353537619894123
+However, as I stated earlier, there are ample restaurants nearby from which you can choose.	0.3332120486186428	0.2498539178585435	0.33337376914530265	0.08356026437751116
+Finally, the use of a town car for a slightly higher fee than a taxi was an excellent touch.	0.33313538070190735	0.24994123222788617	0.33319914113000987	0.08372424594019666
+I travelled with 3 others who had a number of bags - and a Cadillac Escalade was ready at my time of booking to take our group to the airport.	0.3332817334290374	0.2499566991900328	0.33342438549137704	0.0833371818895527
+This truly is a superlative property.	0.33311442598803964	0.25001043708861675	0.3333187626938622	0.08355637422948156
+For the rate, it has to be the best value and the best comfort in San Francisco.	0.3332938747914915	0.24962063118549876	0.33359073958253316	0.08349475444047656
+Expectations!!!	0.33316368824407083	0.24993716283460637	0.33339628469140814	0.08350286422991461
+I have been to a bunch of different resorts in DR, Mexico, St. Maarten, St.	0.3330416032354027	0.2499745108089098	0.3334358575379501	0.0835480284177373
+Thomas, etc.	0.3331377385650714	0.24995978295120125	0.33329939373463796	0.08360308474908934
+I have to comment to anyone who is thinking of going to a Caribbean Resort...YOUR VACATION IS AS GOOD OR BAD AS YOUR EXPECTATION.	0.33311216084680234	0.24996789943411465	0.3333562452230749	0.08356369449600805
+If you think you are going to a American/Canadian 4-5 star resort you would be fooling yourself.	0.3333809189267532	0.24981561523929396	0.33326245183131475	0.08354101400263815
+As many people have commented poorly about this resort and others, you need to remember you are not at home, most of the people who live in these countries do not have large homes with 2 cars, a pool etc.	0.3331847305665245	0.24980352557255264	0.3334103524335548	0.0836013914273682
+Their entire family lives with them in a 500 sq ft house.	0.3331095683155712	0.24993250978122067	0.3333211348641441	0.08363678703906391
+So the hard work, quality food, and other amenities they are providing are 10X higher than what they are used to receiving in their day to day lives.	0.33314249052430517	0.2500759390442713	0.33324430074302963	0.08353726968839387
+Just thought I should mention this as I have stayed at 3 star, 4 star and 5 star hotels in the Dominican and the difference between them is minimal as far as the quality of food.	0.33308998300647663	0.24989950198587685	0.3333999382127432	0.08361057679490341
+If you want Wolfgang Puck, you should stay home to get it.	0.33325782263401704	0.2500385244257009	0.33323069586502335	0.08347295707525865
+But if you open your mind and realize you are experiencing how others live, you will love it.	0.33339059392144954	0.24979010060267146	0.33335075047267165	0.08346855500320743
+What a DUMP... there are much better accomodations for the same price	0.33316973342315126	0.24993045092952731	0.33335073395937503	0.0835490816879463
+Stayed for one night at Casa Alta to do a bio tour.	0.3331283796302082	0.2500000251873338	0.33331629895751463	0.08355529622494334
+This place was just disgusting.	0.3331451104234389	0.2499913475029727	0.3333607303740119	0.0835028116995764
+If you must stay here check out the room first before you hand over your credit card.	0.33317878230202214	0.2500312822704535	0.333393544608732	0.0833963908187923
+I was first given room #1, very dark and damp, had a basement feel since it was on the ground floor half buried in dirt.	0.3330166831920534	0.25006706866047007	0.3334099094860636	0.08350633866141305
+At first the check in person at the convenience store would not give me another room stating that everything was taken until we realized that the toilet was leaking into the bedroom.	0.33293465402815536	0.25030230401268877	0.333196892726959	0.08356614923219681
+At first he told us to just turn the water valve off on the back of the toilet.	0.3330644653396477	0.2501446007133649	0.3332488270754889	0.08354210687149843
+When I threatened to leave to go to another place down the road he gave us another room on the upper floor.	0.3328519986591058	0.2503010894852962	0.3332068760814843	0.08364003577411379
+It was not much better but at least the toilet didn鈥檛 leak and the sheets looked clean.	0.33312374178341453	0.24988444904996518	0.3335042455423172	0.08348756362430317
+I was afraid to look under the mattress.	0.33307168295967415	0.2500490375417104	0.333328582667513	0.0835506968311024
+If it wasn鈥檛 so late at night and if I was staying more than one night I would have left.	0.33313870811577323	0.2500273123838919	0.33335933065170764	0.08347464884862713
+Fantastic location Stayed at the	0.3333003649960225	0.250102423690269	0.3334544735985622	0.08314273771514623
+Inglaterra hotel for 3 nights in February, the hotel was in an excellent location just off La Rambla.	0.3333288830504432	0.24982867728115682	0.33347050780361925	0.08337193186478085
+The hotel is a small boutique hotel that has been recently modernised.	0.3330204943434349	0.24990100793834832	0.33337800950526986	0.08370048821294687
+The rooms are very clean and are the perfect base while exploring the city, ask for a room at the front of the hotel as you get your own personal little balcony.	0.33324615236475424	0.2499346333201661	0.33341702390704986	0.08340219040802983
+The rooftop terrace offers a nice view of the city at sunset while enjoying a few evening drinks even in february! I would definately reccommend this hotel and will have no hesitation in staying here again!	0.3332108377708082	0.24990483448482312	0.33341772715361745	0.08346660059075138
+Value for the price	0.33295142625886137	0.24993570028091494	0.33358520464454905	0.0835276688156746
+I have stayed here several times for business over the last couple of years.	0.3329199627094519	0.25009682803047234	0.33335109585251116	0.0836321134075646
+They have nice meeting room space, and the rooms are reasonably priced.	0.33305693554068855	0.2501092640238286	0.33325404417036036	0.08357975626512242
+The hotel is in a convenient location, walking distance to many areas.	0.33326061333031054	0.25001042891374997	0.333458548025769	0.0832704097301704
+The hotel is across from Victoria Park, which is great.	0.33333057414366785	0.24990880896830894	0.33335032449214624	0.08341029239587698
+Many rooms have a harbor view.	0.3331154871346268	0.24996734118120922	0.3332965841986105	0.08362058748555339
+The rooms are recently renovated, and much improved.	0.33311309643206577	0.25006661353202747	0.33321623088070135	0.08360405915520529
+Very good internet access in the rooms, and wireless in areas of the hotel.	0.33310433367914033	0.249916215141312	0.33343389128820555	0.08354555989134207
+Room size is average.	0.33300321627402085	0.2500057559227378	0.33337994628245193	0.0836110815207895
+Buffet breakfast is very extensive.	0.3332638422272884	0.24974972731328104	0.3334752665679875	0.08351116389144302
+It was included in my room rate.	0.33293277408171684	0.2500451670813498	0.3334148146692275	0.08360724416770579
+A very large variety of western and Chinese selections.	0.3332633861291705	0.24976277787932558	0.33344163054027176	0.08353220545123224
+The lobby level has a coffee lounge that serves light snacks and is a nice gathering spot.	0.33321296637674386	0.2498571496266533	0.3332692371883368	0.08366064680826622
+Good service overall.	0.332970635974685	0.24988207837565002	0.3336472097709934	0.08350007587867153
+Terrible Behaviour, good breakfast	0.3330109740116632	0.24998423685310908	0.33346453188523334	0.0835402572499943
+The hotel as such was good with a very good breakfast.	0.3329513669467904	0.24996876098054557	0.33365625566308726	0.08342361640957671
+I stayed here along with a friend for more than 20 days and the behaviour of the guys at the reception was terrible.	0.3331798363927134	0.2499458556068707	0.3334269361352376	0.08344737186517823
+As an instance, I went to ask him about reservation and he said We will talk tomorrow morning, Thanks you without even looking at me.	0.33307345337882416	0.250097406871706	0.3333194223760778	0.08350971737339213
+The rooms are small and there is no place to move but I guess it is ok for the price.	0.33311586696836837	0.25002829645425906	0.3333387887816634	0.08351704779570912
+Connectivity from the hotel to all important places is good as it is right in front of the main station.	0.3331973676227802	0.24995212661539565	0.3333590094496002	0.08349149631222408
+A "Diamond in the Rough"	0.33317603208542446	0.2498977162215677	0.33336990067524197	0.08355635101776579
+We stayed on a 25th floor Ocean View room.	0.3330374647979809	0.24995728020141686	0.33344796153596584	0.08355729346463654
+The room was fine, but be forewarned, the neighboring Hilton is building a high-rise time share building right next to the Ilikai (Diamond Head side).	0.33306830072734517	0.2501204638371628	0.3333076608652369	0.08350357457025534
+The construction noise was VERY loud.	0.33313011838846984	0.25001229445902573	0.3334434839513825	0.08341410320112184
+We could not sit on our 25th floor balcony and enjoy the ocean views without the daytime sounds of ear-splitting, pile-driving machines and other construction equipment.	0.3330835063923482	0.24987795301285048	0.33342242989207443	0.08361611070272686
+The Ilikai also permanently closed one of their two pools because the adjacent (Yacht Harbor) tower was sold to another company.	0.33315095406166845	0.24991634742847135	0.33324325607641725	0.08368944243344305
+I hope they update their website to advise of this.	0.33299188987088035	0.25012842338302	0.33323605547185253	0.08364363127424722
+One last complaint; We had a $100.	0.33313654665910847	0.2499775936827079	0.33337235060054954	0.08351350905763404
+00 Hotel restaurant and room service voucher.	0.33297416475353353	0.2500599466410023	0.33346418744151296	0.08350170116395116
+If you receive this, please note: It is NOT APPLICABLE to Sarentos (roof-top-expensive-incredible views) Restaurant.	0.33290491894338686	0.2503083972865037	0.3331821159165915	0.08360456785351798
+We learned this the hard way, after dining there- Front Desk Staff should have told us of this exclusion on day one but forgot (?).	0.3329337282764916	0.25011421619395613	0.3334086764438228	0.08354337908572956
+We ultimately used our remaining balance at Canoe's Restaurant, and we were not disappointed- EXCELLENT restaurant (ask for an outdoor, tiki-lamp-lit table!).	0.33305723484063415	0.24984703709561829	0.3334461188295903	0.08364960923415717
+Enjoy!	0.33317895406925896	0.24983991770885808	0.3334445684082437	0.08353655981363918
+Ilikai recent guest	0.3331596898215284	0.2499200164061969	0.33334104029738887	0.0835792534748858
+Nice hotel, great location The Luna	0.33343488405498917	0.24987918602465217	0.33336822053524157	0.08331770938511693
+Simone is a great hotel near Victoria Station.	0.3332414042529724	0.24990765993052289	0.33332178112618527	0.08352915469031942
+The hotel was clean and the staff was very friendly.	0.33347165395397205	0.2497204848400623	0.3337201736363496	0.08308768756961618
+The rooms were average European size and the bathroom was very modern with plenty of hot water.	0.33325693397642375	0.24978077494883924	0.3334289116001876	0.08353337947454921
+As mentioned in previous reviews, there is no lift.	0.33306150369299353	0.249900409666108	0.33326363863170755	0.08377444800919084
+So if you have trouble with stairs request a lower floor.	0.3330423738532369	0.24999858822145227	0.33331049244225786	0.08364854548305291
+We slept in every day so we did not try the breakfast.	0.332988055874665	0.25005796407599434	0.33335453303384005	0.08359944701550054
+However, we did eat at several of the restaurants nearby and enjoyed all of them.	0.3332338060818521	0.2497377876240817	0.33352877294357697	0.0834996333504892
+All things considered, the Luna Simone is a great hotel and we would stay there again.	0.33332072076345004	0.24981099363728598	0.33352211623467626	0.08334616936458784
+Ambassador recently with a couple friends.	0.3330828007188156	0.24995193178297315	0.3332801838461432	0.08368508365206799
+The hotel itself is pretty nice.	0.3332145790459528	0.24986044015747416	0.33333215148322837	0.08359282931334466
+The downstairs bar looked really nice.	0.33319010661951026	0.24984986428850955	0.333387527682049	0.08357250140993125
+The room we stayed in had some issues with the flooring, but the size and beds were not an issue.	0.33315736870955825	0.2498867163133836	0.33361837165822283	0.08333754331883542
+We did have a BIG problem with a member of the night staff.	0.3330130319163585	0.2501881173991752	0.3332705068112606	0.0835283438732059
+A buddy and I were out pretty late one night drinking and having a great time.	0.3331812626281648	0.24984797985198814	0.3334577456519757	0.08351301186787131
+When we arrived back at the hotel we had to wait outside for about an hour and a half because the lady at the front desk did not buzz us in.	0.33299168367355975	0.25005751894897765	0.33341436635062455	0.08353643102683801
+When we complained she said You were outside for about 5 minutes basically called us liars.	0.33306655573655164	0.2499433731342278	0.33342130175813084	0.08356876937108966
+The hotel itself is a nice location and the rooms are ok but the staff sucks.	0.3332262574463518	0.25011387518014105	0.33333720529153543	0.08332266208197182
+A Terrific San Francisco Choice	0.3331298107287134	0.24981086355470833	0.33338461852707285	0.08367470718950533
+Just got back from a three-night stay at The Rex and it's only fair to sing this hotel's praises.	0.3330999407023755	0.25011435294102624	0.3332659488363271	0.08351975752027113
+Location is great; the rooms are comfortable; the amenities (morning paper, free wine in the evening, high-speed internet) are perfectly lovely; the adjoining restaurant great for breakfast (I didn't eat dinner there, but it looked filled up when I stuck my head in); the New Yorker magazine theme in the lobby and the library fun.	0.3331618231408471	0.25008012802697566	0.3333126421227251	0.08344540670945208
+But what really sets it apart is the attentive staff and the above-and-beyond level of service and helpfulness.	0.3332822292872626	0.24987842903855348	0.3334340404615782	0.08340530121260585
+It's a hotel you can feel welcome and at home at--I'm convinced it's one of the best buys in San Francisco.	0.3333125589946152	0.24972878761831388	0.33344198701207023	0.08351666637500064
+super!!	0.33314066850757895	0.24984604815666095	0.3333867779000009	0.08362650543575913
+The Hotel	0.3332554807336089	0.24994373325184252	0.3334054550224796	0.08339533099206915
+Aalders was an home coming experience!!!	0.3329600691786756	0.2501318280968105	0.3332786398990525	0.08362946282546133
+Pleasant and helpfull staff.	0.3331898568352785	0.24997010233042669	0.3333637816499948	0.08347625918429995
+.especially Alex...thank you for everything!!	0.3331889410063623	0.2498844043443285	0.33344474647621103	0.08348190817309807
+The rooms were clean and the location of the hotel was great.	0.3334899077966892	0.2497874714209306	0.3335581671167362	0.08316445366564412
+Just in the middle of everything...Museums, Restaurants, Public Transport and lots of Shops.	0.33335058462127815	0.24977590911007574	0.33352865463985826	0.08334485162878781
+This hotel was recommended by friends and we are very greatfull they told us about the hotel Aalders.	0.33309968519863986	0.25008292480933025	0.3334230932256699	0.08339429676635993
+We will return very soon.	0.3333448041818698	0.24968904191829064	0.33361175630909035	0.08335439759074915
+Beautiful Resort but Scuba Diving Not	0.33306064094349497	0.2499386573855031	0.33340593198777774	0.08359476968322413
+Available - DIVERS READ!	0.33310533665808045	0.249929097383397	0.3334328553468095	0.08353271061171301
+We just returned from a nice visit to the Copamarina last week.	0.33328511383750187	0.249910489584215	0.3333553027271186	0.08344909385116461
+The grounds are beautiful, room was nice, and overall we had a good time.	0.3331251948054938	0.24995942797735035	0.33356874297099603	0.08334663424615972
+The main issue we had was that scuba diving was not available all week.	0.3331283275097224	0.25000611200864187	0.33350126118113227	0.08336429930050336
+When we checked in on Tuesday we were told that there would not be any diving available until Saturday, the day we were flying back to the US.	0.33298774403169873	0.24999622782184758	0.3334992218008011	0.08351680634565253
+The hotel employee was very nice and said that May is a slow month so the scuba employees decided to take a job all week repairing a reef that had been badly damaged.	0.3332432520169471	0.24999163524760917	0.3333900570378926	0.083375055697551
+She said that we could go diving through a different dive shop that is 30 minutes away.	0.3329365024495517	0.25011158047633425	0.33325646758459926	0.08369544948951489
+She did not say anything good about the shop, but simply said they do diving.	0.33297590413602485	0.25013303707809814	0.33329902887519564	0.08359202991068146
+We would have to drive there or they could call us a cab.	0.33301395545828105	0.2499379548234227	0.33341011269095744	0.08363797702733891
+My husband and I do not dive very often so we always research dive shops before we go diving with them.	0.33321715974839317	0.24980541093874922	0.3334918200514028	0.08348560926145475
+We had already researched the Copamarina and felt very confident that this is a solid dive shop with a good reputation, however we did not know anything about the dive shop that is 30 minutes away.	0.3329845379719928	0.25008402416882747	0.33336556875812046	0.08356586910105945
+We did not bring our laptop and the Copamarnia does not have any available computers, so we did not have a way to do any online research.	0.33296455672600817	0.2500803094071554	0.3333564982977342	0.08359863556910231
+Therefore we decided not to go diving.	0.332921066159793	0.2501679594084039	0.3332824839667949	0.08362849046500832
+I guess we could have driven the 30 minutes and tried to find out more about the dive shop, but we had been stuck in horrible traffic in San Juan for 3 hours and simply did not want to get back in the car.	0.33302305946075156	0.24999597255391265	0.333404092988099	0.08357687499723693
+We came there expecting to dive onsite, not have to drive 30 minutes to a dive shop that may or may not be reputable.	0.33297128599777065	0.25007666170587356	0.3333233836699531	0.08362866862640266
+If you are not a diver, I would recommend you stay at the Copamarina because it is very nice and peaceful.	0.3333477229009547	0.24989878752656922	0.3333275305884903	0.08342595898398589
+We did not do the all inclusive meal plan, but I might consider it if we go back because there are not too many places nearby to eat.	0.3331657432330561	0.2499426249564944	0.33343625423716555	0.08345537757328403
+I thought the food was good and we enjoyed the open air cafe and the music at night.	0.3330838340398514	0.2499345300543434	0.3334545771487094	0.08352705875709565
+The only other issue we had is that you can hear everything in the room next door through the connecting locked door.	0.33314552500383576	0.2500328074434637	0.3333759170613831	0.08344575049131744
+The first night we woke up at midnight because the people were talking and when they sneezed at 6:00 am it was so loud I thought someone was in our room.	0.3331268681110273	0.24999249890075223	0.333407437720798	0.08347319526742236
+I complained and was moved to a room that had a vacant room next door.	0.33294364662001363	0.2502907549769741	0.33329280469276973	0.08347279371024242
+However, during high season this might not be possible.	0.3328437326905106	0.25022467251841524	0.3332149254622465	0.08371666932882761
+The doors are very thin and need some insulation.	0.33326855187478266	0.24979598715584778	0.333469840330678	0.08346562063869166
+I guess the bottom line is that if you are a diver and plan to dive, I would not stay there.	0.3330950235045313	0.25015829421455776	0.3332823459819721	0.08346433629893882
+Our experience is not isolated if you read the other reviews it happened to another reviewer in March of this year.	0.33310810193020907	0.2500230250654405	0.33338472906397254	0.08348414394037805
+However, if you are simply wanting a nice vacation in relaxing area then the Copamarina is a good choice.	0.3332042761539918	0.2498116140350044	0.3334278029139682	0.08355630689703561
+Feel free to email me with questions.	0.3330528580206466	0.25006359567277553	0.33318184557603625	0.08370170073054148
+dont trust the staff here!	0.3331252478921552	0.2500249309235448	0.3334496330084023	0.08340018817589763
+Although most of the reviews of this hotel tell a fairly accurate picture- central, basic.	0.3331482089161395	0.25007580027455784	0.3332826789814672	0.08349331182783543
+attractive building, noisy and so on, we met an unexpected problem when we brought a group of 26 students.	0.3330659128152382	0.24992342509285193	0.33342735291785963	0.08358330917405038
+Despite very careful bookings through our agent Studylink on arrival (late, with tired students) we found that the hotel had put us in rooms where students were expected to share beds- claiming that this was normal practice.	0.33313447145655417	0.2499476101680628	0.3334528342622673	0.08346508411311586
+Basically the hotel had delibearatley overbooked and told us barefaced lies to cover up, knowing there was nothing we could do about it.	0.33313100380594657	0.2500171268438698	0.33333324672835923	0.08351862262182433
+We had Spanish speakers with us but could do nothing- it was a take it or leave it attitude, and the same thing happened when some of our female staff were intimidated by german students in the room next door over the following days.	0.33316010034169063	0.24992671782471196	0.33347533063018425	0.08343785120341309
+We got around the problem of rooms by moving beds and putting some students in another hotel, which was paid for eventually by Studylink, but it made an unpleasant start to the visit.	0.3330901185430534	0.2500109594477342	0.3333478611215516	0.08355106088766062
+So don't trust the staff, and be prepared for them to try it on and cause problems.	0.3330857991386787	0.25011489002396486	0.33334816620218316	0.08345114463517336
+Great!! I really dont understand how people can have a bad experience with this hotel, the one thing that made it such a nice place was the staff, they are sooo friendly!!	0.3331745301961207	0.25006336584502076	0.33330906006115235	0.08345304389770618
+The room was average size for amsterdam, the breakfast very nice, usual toast, ham, cheese, jam etc, and the place was very clean.	0.33321508332168653	0.2497850792428352	0.33354173031699164	0.08345810711848675
+Im going back there this year and will definately stay there again.	0.333248230289179	0.2498769236152237	0.3334805986696366	0.08339424742596088
+Nice but not for western tourists.	0.33291421326397475	0.2499579905852386	0.33345729310403865	0.08367050304674807
+This is not exactly a tourist hotel but it is clean and comfortable.	0.3330579610887219	0.25000896728360694	0.33349986445229973	0.08343320717537156
+It has all the facilities of a 4 star hotel including a business centre, but beware they charge $17 for 30 minutes internet usage.	0.33301809154245404	0.24987804603118308	0.33334549799686225	0.08375836442950055
+The hotel is located near Outram Park.	0.3331780101335257	0.25001334540589926	0.3333546841453704	0.08345396031520452
+Taxis are readily available and the station is about a 10 minute walk away.	0.3332213568875812	0.24996155470572295	0.33328246229604946	0.08353462611064646
+The rooms have a modern bathroom with shower, flat screen TV, a safe in the wardrobe, a mini-bar and tea/coffee making facilities.	0.33328336693750704	0.24978800621498576	0.33334371129206586	0.0835849155554414
+The staff were polite and friendly.	0.3333383262575916	0.24987628233091497	0.33346030088806405	0.08332509052342942
+As I said, it's not exactly a tourist hotel but then again Singapore isn't exactly the most thrilling place on earth either.	0.332984364301778	0.24998420943856223	0.3334674534246562	0.08356397283500343
+Marie celeste hotel!	0.3331437701673143	0.24993687467302228	0.3333686032634289	0.08355075189623444
+Quite easy not to talk to a soul here.	0.33302693005606515	0.2501356645869287	0.3333334786232711	0.08350392673373491
+It's cold , clinical, joyless.	0.3330716137981712	0.250053463692804	0.3332312806958702	0.08364364181315456
+Expect no warmth at all.Effectively its a posh office block...But great views and a delightful breakfast.	0.3332139385903769	0.24978064172627323	0.33339411503456	0.08361130464879
+.	0.3331236219717685	0.24995209068610205	0.3333392061134021	0.0835850812287275
+The parking is exorbitant, but drivers dont really have a choice.	0.3330750035334868	0.24994935343299365	0.3333940756805859	0.08358156735293373
+Not the greatest	0.332913394099846	0.2501529503583639	0.33324963362663934	0.08368402191515076
+We are regular guests at various Embassy Suites and Hilton products.	0.33311715378556134	0.24997365639011157	0.33332016586486973	0.08358902395945748
+While the location is great, this one is a bust.	0.33323583423002906	0.24998967741756145	0.3332142971994082	0.0835601911530012
+The hotel is very dated and in need of a LOT of work.	0.33320178343426243	0.24985072196730793	0.33329198433088186	0.08365551026754774
+Very noisy, not only within the hotel, but the construction noise (even on the weekend) early in the morning.	0.33292734629815474	0.25019886623943305	0.3333645394387747	0.08350924802363743
+The bathrooms are very small and have plumbing problems.	0.33320633862658183	0.2499974465415716	0.33346307146593746	0.08333314336590902
+Front doors of rooms are old, not very energy efficient or sound proofed.	0.3330325239602629	0.25003884139313814	0.3332819621730562	0.08364667247354267
+The front desk staff could use a really good lesson on manners, professionalism, and genuine hospitality.	0.3329554578763348	0.25003891818912566	0.3332986344048362	0.08370698952970347
+They could use a little polishing up and professional conversational skills.	0.33315489083944017	0.25006179806178463	0.33322419463521125	0.08355911646356404
+The complimentary breakfast is great, and the staff in there is warm accomodating.	0.3334363664257873	0.24973311866909761	0.3333854645469686	0.0834450503581465
+Manager's reception is kind of sad w/ plastic cups instead of glass.	0.33304790562251557	0.25002026769549324	0.3331887270967082	0.08374309958528289
+The pool area is nice but the pool itself could use a good scrub down.	0.333195023527062	0.24968737991823226	0.33354235057052645	0.08357524598417926
+Slimey, dirty tiles.	0.3331158012069782	0.2499662829226714	0.333367912902922	0.08355000296742833
+Could be a real gem since it is an older property/building and could get some of it's original character back with some renovating, and better front desk staff.	0.3330723014889412	0.25002860404943755	0.3333366466635696	0.08356244779805182
+You get what you pay for	0.33345417078175704	0.24977930683081692	0.3333087025893157	0.08345781979811025
+My husband and I (both 30 years old) stayed at the Barcelo Dominican Beach from May 31 - June 7, 2008.	0.3333213683289849	0.24983071321563072	0.3334407705836084	0.08340714787177612
+We booked through WestJet vacations and paid $1169 per person (taxes in) for the trip.	0.3331323779087931	0.24983349352011802	0.3334573385565898	0.083576790014499
+The hotel transfer was an additional $20 per person via the website.	0.3331693805081691	0.24996026347677427	0.333374849798407	0.08349550621664963
+The tourist card ($10 on entry) and departure tax ($20) was included in the WestJet vacation package.	0.33314421195340466	0.24988198330714356	0.3333522893789608	0.08362151536049091
+The hotel is a 20 minute bus ride from the airport.	0.33344646422044266	0.2498720809115559	0.3332734133474214	0.08340804152058007
+When we first checked in, we were given room 2403 (Block 2, 4th floor), which is right by the front desk.	0.33295349828538456	0.2500291909685126	0.33340590751374244	0.08361140323236049
+There is a $20 deposit fee to use the safety box.	0.33313698245611784	0.2499494043581492	0.33329790887421235	0.08361570431152056
+You get this money back at the end of your trip as long as you return the key.	0.333333786532459	0.24979332242219426	0.33338023452613913	0.08349265651920758
+Block 2 and 3 are in the same building and right behind the main entertainment area so it gets quite noisy for the shows from 9pm-11pm daily.	0.3331850483378158	0.24998240809998246	0.33342381072579363	0.08340873283640818
+I would suggest anything in block 5 and up if you want less noise during those hours.	0.3331783084055453	0.2500266175779987	0.33317852464135805	0.08361654937509792
+In the first 2 days we were moved to 4 different rooms because of various problems (original room's safety box was broken, then we asked to be moved to a more quiet section, then the new room they gave us wasn't made up and when no one came after 4 hours we went to the reception desk where they upgraded us to a Tropical Junior Suite for the all the inconvenience).	0.33287740777901714	0.25026594852883766	0.3332600805251831	0.08359656316696205
+This made all the moving around worth it.	0.3332264171902651	0.24995109980202024	0.3333165560853942	0.08350592692232059
+We had a jacuzzi in the room with a king sized bed and we were 10 steps away from the beach!	0.33331470750268927	0.249896082008746	0.33344014444383063	0.08334906604473402
+FOOD:There is only one main restaurant for buffet.	0.3329484084090868	0.24981514380862835	0.33345955951575385	0.08377688826653094
+The food was mediocre and the selection is small (compared to other resorts we have been to).	0.3332370083166257	0.24982602176925503	0.33358211686827055	0.08335485304584864
+The food was bascially the same day after day.	0.33321490385570385	0.2499724595683078	0.3333843837610064	0.08342825281498192
+The Bahia (Brazilian) restaurant offers a mini buffet selection during lunch time.	0.3328880015222265	0.25003132128242417	0.33330508380726925	0.08377559338808002
+There is a third buffet restaurant but it is in the Vera Club section (Italian folks) and I'm not even sure if we were allowed there, although we did not try.	0.332889743100579	0.25007350922049165	0.3333526338838832	0.08368411379504631
+The a la carte restaurants:You make reservations at the front podium in the main buffet area.	0.33321569147933966	0.24974320860662083	0.33348835497320756	0.08355274494083191
+The only seating times available are 6pm or 8pm but if you show up after 9:30pm at any of the restaurants they will just seat you.	0.3332319378373018	0.24988567028026223	0.3333205491594419	0.08356184272299391
+There was no limit on the amount of reservations you were allowed.	0.333184507419959	0.24983590186566765	0.33328905474805137	0.08369053596632188
+We made our reservations each day at 11am for the same evening with no problems.	0.33320374270578557	0.24977426736552494	0.3334061123581092	0.08361587757058024
+Japanese restaurant - There is a grill at every table so the cook makes the food in front of you.	0.33315918037882797	0.24983468458161973	0.33333907277745045	0.08366706226210183
+They cook up beef, chicken, seafood, cut up veggies and fried rice.	0.33306782990622597	0.25006883554265985	0.3332201651314206	0.08364316941969355
+Each of the meats are cooked separately then combined with the veggies and then soy sauce is put on top.	0.3330728739611949	0.2500788097609973	0.3331742844269888	0.08367403185081895
+The food comes out all tasting the same - just salty.	0.33331067188895563	0.24980555406626972	0.3334024842531175	0.08348128979165707
+The dessert that is served is the same ones that come from the main buffet.	0.33309769466828704	0.25004804612000275	0.3332715134991802	0.0835827457125299
+I could have done without this meal.	0.3328964050240165	0.2500823211505795	0.333368413954959	0.08365285987044496
+Brazilian - I would recommend this.	0.333060940956862	0.25015861129024536	0.33329443243477297	0.08348601531811974
+The food was simple but really good.	0.33307102302984565	0.24988852950894572	0.33357318731124835	0.08346726014996021
+The meat on the skewers were delicious.	0.3331165436183545	0.24989441350301192	0.33338197918574924	0.08360706369288425
+Mexican - This was okay.	0.3329139748461882	0.25006697520423704	0.33341779624964235	0.08360125369993238
+Most of the items were deep fried.	0.33317867991719535	0.24983967948193397	0.33342565643000394	0.08355598417086667
+I loved the chips and gucamole.	0.3332180739964262	0.24996206520980788	0.3333598973107741	0.08345996348299163
+Italian - This was good.	0.3328307114668369	0.2500661501542185	0.33354032166817327	0.08356281671077123
+The best part of the meal was the appetizers: meats, cheese, and the bread!!	0.33330819745427487	0.2497976099248624	0.3334640654366738	0.08343012718418893
+I ordered filet mignon with a grape sauce but what I got was more of a salsbury steak with gravy.	0.3331005890195914	0.24993477659347121	0.33335129548202574	0.0836133389049118
+24 hour snack bar - All they ever had was pizza and popcorn.	0.3332246987170425	0.24991854510519695	0.3333819612800834	0.08347479489767705
+I saw hot dogs once or twice.	0.33299185280144794	0.24991088491467445	0.33334993193804596	0.0837473303458316
+They don't have a menu posted so you have no idea what is even offered.	0.33315170994138793	0.2499991559059873	0.33328284366062805	0.08356629049199665
+We ordered hamburgers once but the meat looked pink even after it was cooked twice.	0.3330519600258299	0.25003985532455186	0.3333867162629256	0.08352146838669279
+Le Cafe - Great!!	0.3332243737765477	0.24985159488254535	0.33336499428987215	0.08355903705103485
+They have fantastic frappucinos - topped with whipped cream and drizzled in chocolate sauce...mmmm!	0.33315762162335943	0.24998189979689445	0.3333358433248262	0.08352463525492004
+MISCBeach - Ocean/beach itself is beautiful.	0.3332207560343317	0.24996858818183873	0.3333582253762313	0.08345243040759825
+Resort does not take care of its beach though.	0.33299665794691075	0.25002065819610425	0.3332814605202261	0.08370122333675888
+There was garbage (straws, cigarette butts, cups, broken glass) all over the place.	0.333216554996249	0.24987140135278998	0.33333214253928445	0.08357990111167646
+No garbage cans to be seen around the beach.	0.33313373658249035	0.25009455890680027	0.33318927870195014	0.0835824258087592
+I never saw anyone walking around picking up garbage either.	0.33314807197777235	0.24991910615167634	0.3332975774914748	0.0836352443790764
+Massages - Massage huts all over the resort.	0.33330873477899925	0.24976084615731733	0.33342214777378304	0.08350827128990031
+These are outdoor and in the open but there is a semi private hut near the 24 hour snack bar.	0.3330856097334454	0.24995069008752768	0.33329715546749855	0.08366654471152828
+They charge $30 an hour and it is worth it.	0.33303823089121215	0.2501346717901827	0.33326662385359657	0.08356047346500851
+We tipped $5 per person.	0.33318000100263495	0.24983431086178753	0.333432326735626	0.08355336139995141
+The resort spa is separate building and they charge a lot more.	0.3332733402053891	0.249823251743369	0.33326466799790977	0.08363874005333202
+Things to bring (aside from the obvious) - Antibacterial hand soap for your room, spray air freshner, an alarm clock (or just a clock as they do no have them in any of the rooms), Cortizone (for heat rashes), Benadryl (to stop the itching from heat rash...lol), face cloths (we got these one day and never saw them again).	0.33307296485589355	0.249943971853232	0.333331691897526	0.08365137139334838
+We brought mosquito repellant and After Bite but did not see a real need to use this.	0.33296468008626046	0.25010425129341657	0.33334924244639297	0.0835818261739301
+We did however get some anti-Malaria pills from our doctor as there have been some outbreaks in the Punta Cana area this year.	0.3332032608606735	0.249754798165892	0.3335940653823342	0.08344787559110041
+Tipping - We tipped the maids $2 each day, $2 at the a la carte restaurants, and $2 per bag to the bell boys as they dragged our suitcases up 4 floors when we first got there.	0.3332157532653526	0.24976739649771196	0.3335052578210264	0.08351159241590901
+We did not frequent the bars so did not tip when we went up for the odd drink.	0.33275334706663	0.25037878879660813	0.33323522588068966	0.0836326382560721
+Over-all the trip was okay but a little disappointing.	0.3332412046757923	0.2498330293071015	0.3335030588319242	0.083422707185182
+We did not go on vacation to party and get drunk all the time.	0.3330500088967901	0.2500360741988223	0.33337883733902185	0.08353507956536568
+It was more to relax, enjoy the beach, and have some decent food.	0.3333617775425651	0.24972898287937306	0.33360116804649276	0.08330807153156923
+Personally I would not go back to a Barcelo resort.	0.3330950736098028	0.25006469338504644	0.33332491440784395	0.08351531859730678
+I have found that the Occidental Grand and Bahia Principe chains to be much better.	0.33305699925879967	0.2501077771647736	0.33320522109256495	0.08363000248386167
+We normally go around this time every year and pay about $1500....so I guess you get what you pay for!	0.3331976439729841	0.2499132843212332	0.3333600719980632	0.08352899970771939
+Fantastic Hotel The	0.3332808069403615	0.25003755026069785	0.33346569557530165	0.08321594722363883
+Russell hotel is an older hotel with a certain charm to it.	0.33312217565914487	0.25002779522412777	0.3333215466858141	0.08352848243091318
+The location is the best thing about this hotel - only minutes from Circular Quay, close to the Opera House and steps from great restaurants and cafes.	0.33331209328757044	0.24984143175352294	0.33344651105463774	0.08339996390426879
+The staff are extremely friendly and helpfull, ready to help with anything, especially your bags, there is no elevator (heritage building).	0.3333413320582296	0.24992522549088492	0.33326876618911017	0.08346467626177526
+The rooms are small but very cozy, we would definitely stay here again.	0.3330883776476337	0.24994097802581292	0.3337388955721904	0.08323174875436291
+I will stay at the	0.3332542492900358	0.2498663254287967	0.3334893569613195	0.08339006831984809
+Donatello again The rooms at the Donatello are comfortable, practical, and attractive.	0.33313442124563447	0.2500829680819431	0.33327176573536454	0.08351084493705782
+The staff is helpful and pleasant.	0.33324930364141164	0.2500119673616342	0.3333741501217812	0.08336457887517294
+Breakfast is a buffet continental repast--the room gets crowded but the food is quite fresh.	0.3333324712309976	0.24976002842524758	0.33347179255380316	0.0834357077899516
+I was there for 12 nights and don't have a single criticism of the hotel, except for the crowded breakfast room.	0.3330484261823467	0.24995647093457948	0.33344104882686926	0.08355405405620464
+The restaurant attached to the hotel, however, is quite mediocre and very noisy, with unresponsive staff.	0.33317095253757034	0.25004536430163404	0.33344070205516724	0.08334298110562835
+Avoid it.	0.33317631194730607	0.24990777461418795	0.33339442759512733	0.08352148584337853
+Brilliant Hotel - would recommend to anyone	0.33312394299483156	0.25018903653841157	0.3332983248115086	0.08338869565524838
+We have just returned from a very pleasant 3 night stay at the Jolly Carlton in Amsterdam during the period between Christmas and New Year.	0.33328075675343377	0.24977759402493996	0.3335150933182303	0.08342655590339602
+We thoroughly enjoyed our stay.	0.33323220852737034	0.24976075716254983	0.33356463554467997	0.0834423987653998
+The staff were very polite, friendly and couldn't do enough for you.	0.3334067682464367	0.24980293871607165	0.3335108215284582	0.08327947150903356
+The room was more than adequate for our needs.	0.3332529829048994	0.24978056970206064	0.3335436224381656	0.08342282495487452
+It was clean and tidy and as there was a thermostat in the room, the temperature was just right.	0.3331879533896183	0.2498885454564108	0.33347008883415497	0.08345341231981596
+We were on the 7th floor so noise was not a problem.	0.33276496600295846	0.250223754243343	0.3334069162840841	0.08360436346961461
+There was a big choice at breakfast and again the staff were very friendly and quick to take your order for hot drinks and the made to order omelettes, scrambled eggs etc.	0.33318323256178134	0.25001947671157515	0.3333061837176638	0.08349110700897985
+The hotel was in a perfect location to explore all the sights in Amsterdam.	0.3333233852802369	0.24992554786281077	0.3333889541930763	0.08336211266387615
+It was just over 5 minutes walk to Dam Square and a couple of minutes away from Rembrantplein where there were lots of bars, clubs and restaurants.	0.33317374722018483	0.24996025186369902	0.3333733896775904	0.08349261123852571
+I will definitely stay that this hotel on our next trip to Amsterdam.	0.33330760008232346	0.24984746196449248	0.3334793837732218	0.08336555417996219
+You have to confirm your reservation!	0.3332258783919954	0.24988465174451682	0.3333532426179218	0.08353622724556609
+I chose the Francisco Bay because it locates near the Fisherman warf with free parking space, and affordable price.	0.3332119719417527	0.2499013918639587	0.33329779616916405	0.08358884002512446
+I have made reservation through hotels.	0.33299480504549867	0.24988779008064116	0.3334213166360555	0.08369608823780461
+com and already paid for the whole cost with email confirming my reservation.	0.3329711948069693	0.24998844432794273	0.33336119784687096	0.08367916301821711
+At the time I checked in, the fron desks said we don't have your reservation and there is no room available!!	0.3330879692258195	0.2498753185736533	0.33344172079013	0.08359499141039707
+They said this problem can normally happen and just sent us to the other hotel with the same owner but was much more far away (quite not responsible).	0.3331138505268127	0.2500330651844659	0.3333976861390878	0.08345539814963365
+They said I shouldn't have any problem with the distance since San Fran is a very small city, you can take the bus around.	0.3332743908335873	0.24989576672039174	0.3334572369483136	0.08337260549770734
+I think that is not their business to judge!	0.33287929092531865	0.25016334314525834	0.33311674922703893	0.08384061670238406
+I have read from the review that there was this kind of problem before but didn't think this should happen oftenly.	0.3329641058863318	0.2501211151748141	0.33337867576770236	0.08353610317115179
+I think they might intentionally give my room to the other with higher rates.	0.3331403743960941	0.25008846278220587	0.33326348521938975	0.08350767760231019
+So if you make a reservation through internet, you have to call them and confirm it!	0.33319384108703803	0.24992622924544447	0.33339582484031016	0.08348410482720744
+a tale of good and bad	0.3331506527381963	0.24993853234571362	0.3334441767162684	0.08346663819982181
+Positives: gorgeous landscaped grounds in the midst of the paddy fields; beautiful villas; wonderful breakfasts (the home-made bread with home-made jam was delicious); extras such as free mini-bar, free laundry and transfers into town (15-minute drive); lovely spa; fantastic infinity poolNegatives: internet never worked and staff didn't understand why it wasn't acceptable that 50% of websites (including all online newspapers) were blocked by their server; extremely high prices in the restaurant (why should main courses be 2-3 times as expensive as very chic restaurants in Seminyak?);	0.33306993400755236	0.24990700436340685	0.33332662958461234	0.08369643204442831
+the butler who was a kind of concierge, and was very pushy in getting us to book excursions from which the hotel was clearly making money - this butler often made us very uncomfortable, and was not knowledgeable about Bali and gave us very poor advice which wasted our time and money.	0.3332045919224225	0.24990857966716945	0.3335328273955432	0.08335400101486494
+Ubud itself has a lot to offer, great shopping and sightseeing and restaurants, but does get very over-crowded and in the daytime is simply a massive traffic jam.All in all, the Chedi would be great if you truly need to get away from it all - staying in your villa, lounging by the pool, eating fine meals (at a huge mark-up but probably still cheaper than London or New York).	0.33344853665054436	0.24975871101319555	0.33344653650501854	0.08334621583124169
+But the atmosphere is soul-less.	0.33312145905386575	0.2499577572391991	0.333320036363219	0.08360074734371607
+You almost never see anyone else (apart from your butler who constantly comes to your door - even entering once without knocking!),	0.3330501566286335	0.2500544593936964	0.3332483991737268	0.08364698480394321
+and bizarrely there often wasn't anyone at reception which is a bit of a shock when you return to the hotel and need to get your key.Very strange, and ultimately not very pleasant despite all its positives.	0.33322194177827924	0.24987789138634162	0.33341297620251503	0.083487190632864
+Enjoyed the Stay	0.33295708782275335	0.2500635206618749	0.33339225157314734	0.08358713994222433
+My wife and I have spent 5 nights in October, (They really party on Halloween there!!),	0.33312984532120227	0.2499735686177604	0.3333729780189082	0.08352360804212926
+and enjoyed every day.	0.33306504312018165	0.2499799866509701	0.3333327644665059	0.0836222057623423
+The hotel is a few blocks removed from the noise and activity of Waikiki, so things are a little quieter.	0.33314425444599305	0.24999659400788177	0.3332993956752406	0.08355975587088453
+Our room was an oceanview standard with King bed on the 12th floor.	0.33315812201428124	0.24990920769235092	0.3333460203127749	0.08358664998059308
+Not much view as it's almost 2 blocks from beach.	0.33304648407426707	0.24997278316544766	0.3333905580143799	0.08359017474590534
+Quiet for the most part, the room was adequate but could use some minor remodeling.	0.33306889477925944	0.24984019006949842	0.3336066762618282	0.08348423888941406
+The restaurant was expensive so we ate locally at more moderately priced restaurants, of which there are many within easy walking distance.	0.33311915374850115	0.24995990214387034	0.33338071175310063	0.083540232354528
+We would definately stay again.	0.33318389843853163	0.2499030002350954	0.3335923102197806	0.08332079110659231
+Moderate pricing and quiet location with parking, (Fee $9 to $12), yet still close to the Waikiki scene made it a good choice for us.	0.33306434114158623	0.24997282885735597	0.33338738458612355	0.08357544541493438
+We were not in Paradise	0.332949966537801	0.24998158914236007	0.3335172942481635	0.08355115007167555
+Our stay in Hotel Paradisus for 8 nights has not been good.	0.33309748707919634	0.2496820372112336	0.33363324895138224	0.08358722675818774
+The price we paid and the service provided us has not been of 5*****Quality and the reason are:Transportation to the hotel was very confusing.	0.333137156024454	0.24981613559124893	0.33358815970963634	0.08345854867466064
+No welcome drink or greeting upon arrival.	0.33323464627750093	0.24982929484113756	0.33333380353876757	0.08360225534259386
+We saw it later with other arrivals.	0.3331270489215835	0.2497943821015541	0.33342311614305337	0.08365545283380896
+Room serviceRoom service needs management.	0.33305782656300287	0.2500557385117012	0.33345460909629254	0.08343182582900328
+Not enough towels or sometimes nothing until 6pm.	0.33301106917740136	0.2500387567114517	0.3333039585993241	0.0836462155118227
+Bed linen was for a queen size bed.	0.3330193312826328	0.2501757545916609	0.3332702852064432	0.08353462891926308
+We had a king size bed!!	0.3331946249036615	0.24995994151696893	0.33333240335339903	0.08351303022597052
+Most of the time we got no bottle water for cleaning the teeeth or drinking.	0.3331622233529095	0.24983883586084998	0.3334102980769516	0.08358864270928902
+No colorful bed spread.	0.33316625910462555	0.24995643773000464	0.3332508515171215	0.08362645164824817
+The brochure and the webside looks fantastic but none of them was there.	0.33321126742727947	0.24987936556109416	0.3334770264887053	0.08343234052292098
+No extra bedding for the night because it was sometimes cool.	0.33301299220713027	0.24994589159612368	0.3332153291152432	0.08382578708150269
+Too much noise from other ruede guests with no manner which came home between 4am and 5am in the morning and talked for one hour in front of their room.	0.33305772870316036	0.2500085860853743	0.33332295239691645	0.08361073281454898
+We asked for another room, no answer.	0.33288391228613873	0.2501189479464025	0.33327841832055155	0.08371872144690719
+Asked for another mattress because it was like you are sleeping on a stone.	0.3330014442030863	0.25014417652986737	0.33317946289712136	0.08367491636992495
+We called to the front desk and got promised they will change it, nothing was happen during our stay.	0.3330384713131909	0.2500805862315381	0.3333465221921954	0.0835344202630755
+Sofas in room were dirty and damaged.	0.3331249268928848	0.24994520235915887	0.33345239550999195	0.08347747523796432
+Bathtop curtain was to short and the bathroom was allways flooded after taking a shower.	0.3332397425354334	0.2500080417252058	0.33336372313169316	0.08338849260766762
+Food serviceFrench Gourmet - nice presentation but no seasoning, very bland and no taste.	0.33330710800511826	0.24969522765009844	0.3334290933406042	0.08356857100417919
+Sakura Japanese Restaurant - the cook was from the Dom. Republic.	0.3330409694893178	0.24999941606274736	0.33334647509752685	0.08361313935040794
+Needs no explaination.	0.33316848559395407	0.24994368425093458	0.33326053312540815	0.08362729702970313
+Palapa Grill Seafood Restaurant - Grilled fish overcooked, dry and fishy.	0.3329954342262008	0.25000272214242036	0.3333460252091597	0.08365581842221924
+Lunch Buffet - not enough selection.	0.3328569822918612	0.25012469043289776	0.33337744499984456	0.0836408822753964
+Quality was not very special and no flavour.	0.3330817132598936	0.24997800274206386	0.3334118995576334	0.08352838444040905
+Nobody knew what's in the chafing dishes or on all the plate, because no labelling.	0.3333422947188975	0.2497134215920865	0.3333237836093107	0.08362050007970522
+Dolce Vita Italian Restaurant - some of the dishes were good.	0.3330182183731696	0.2498265621720425	0.3335006477374124	0.08365457171737546
+We never tried the mexican restaurant or the brazilBeverage ServiceFront Lobby bar - Very good in the night.	0.3331031480335995	0.24974651597229666	0.3335161504178382	0.08363418557626556
+Excellent bartenders.	0.3332891033304245	0.24979559004747862	0.3333734099948818	0.08354189662721508
+Beach Bar - very slowBar by Hibiscus Restaurant - very unfriendly and bad set up not guest friendly.	0.33319787419313124	0.2499336360428399	0.33340194772417114	0.08346654203985766
+We found only 4 bars and missing the other 3 which we read on the webside.	0.3330655730550948	0.24989659353412394	0.3334255579570006	0.08361227545378075
+Waitersfriendly but 70% spoke no english and was sometimes difficult to get the right thing.	0.33308229609749973	0.25008795341663326	0.3333289959443189	0.08350075454154807
+Head waiters from the restaurants to take the order mostly unfriendly - no smile.	0.3331407392989715	0.24999023165187442	0.3332527159844311	0.08361631306472293
+The landscaping was very beautiful and well groomed.	0.33326510611684973	0.24990233596885347	0.333455298702695	0.08337725921160172
+All restrooms in Restaurants were nice and cleanIn all we paid for a 5*****Hotel and got 3*** Service.	0.333289409300734	0.24962310729205398	0.33371277432399105	0.08337470908322098
+We are very dissapointed.	0.3332277257855563	0.2498448336860625	0.3335638867867389	0.08336355374164223
+We heard so many complaining during our stay and hope the took some time too to let them know.	0.33325108658050895	0.24972901055580637	0.33354957589510514	0.08347032696857946
+We were blinded with the wonderful brochure and the webside about this Hotel Paradisus.	0.33321722788814245	0.24988379985604386	0.3334383830514916	0.08346058920432223
+We travelled all over the world and had never such a bad experience.	0.33331004351316784	0.2498573235019726	0.3335258270958643	0.08330680588899533
+Two very dissapointed world traveller.	0.33327406164872814	0.249690095158649	0.33345358768968847	0.08358225550293424
+BH	0.3331236030916293	0.2499520906969888	0.3333391871842966	0.08358511902708518
+Wouldn't Hesitate to Return	0.33311297448190563	0.24999162155593074	0.33342086881918637	0.08347453514297719
+Reservations were made via call to Personalities Hotels- all went off without a hitch.	0.3330414473458916	0.24996930011512908	0.33336329641497725	0.08362595612400221
+$85 + parking was better than I was expecting.	0.333067170210769	0.2500540893773271	0.33331243741790006	0.08356630299400376
+Directions from the hotel website were right on, check-in was completed in 30 seconds for a weekend stay.	0.33299139679168127	0.250123565870331	0.33334704148654337	0.08353799585144422
+For those concerned about the neighborhood- it's SF, get over panhandlers.	0.3330795580832993	0.24996682352331018	0.3333268290966188	0.08362678929677163
+Why pay more to be a block closer to Union Square?	0.3329519878552977	0.2501324215077889	0.33317025477445245	0.08374533586246068
+I wouldn't!	0.3330053807891367	0.2499881530143222	0.33345821177529944	0.08354825442124157
+Our corner room doubled as a fire escape, which allowed opening the window for fresh air.	0.3330560516805478	0.24991828628813492	0.33345338805677605	0.08357227397454116
+We were on 8th floor, so very little street noise- asked to be away from kids!	0.3330472673049211	0.2500749715439475	0.3333857147972441	0.08349204635388717
+The room itself was small, but no smaller than other large city hotels- if you want room to walk, I'd suggest taking the F down to Ferry Plaza.	0.3331422172539052	0.24992814012227235	0.3334674876729361	0.08346215495088627
+If ever I returm.	0.33317688452437183	0.24995448756686456	0.3333605274056269	0.0835081005031367
+I'll certainly check rates at this and other hotels under same ownership.	0.3331926904159315	0.24988287089967282	0.3334058386360657	0.08351860004833005
+If I was expecting the Hyatt, I'd have been disappointed, but, for someone who travels extensively for work, this beats many chains hands-down!	0.33299857488592083	0.2499811434940586	0.33346464215258187	0.08355563946743867
+Pet Friendly Find in SF	0.333153199820158	0.24992845666721827	0.33329464151616905	0.08362370199645454
+We chose the Laurel Inn because it takes pets and provides parking, but found that it has a lot more going for it.	0.33327104283806364	0.249783746072371	0.33334314471483256	0.08360206637473275
+The location in a quiet residential neighborhood was great for us, as it gives a different view of SF than the usual downtown one, but it could be inconvenient for some travellers.	0.3330776058781104	0.2498339545033631	0.3334912775710814	0.08359716204744527
+The rooms were unusually large for a city hotel, and very comfortable, with a pleasant and muted W-ish decor.	0.33322607087256895	0.24987637918367595	0.3334490193038828	0.08344853063987236
+Our first room had a small kitchenette, the second did not -- here, a micro wave and a small fridge would have been welcome.	0.3329217837446017	0.25008593620659253	0.333532851111778	0.08345942893702771
+The front desk staff was very helpful and very welcoming, to us and to our standard poodle.	0.33326572924100106	0.24987014060323118	0.33356830525387055	0.08329582490189714
+The parking was great.	0.3333317784889777	0.24993704703566794	0.3334087576091664	0.08332241686618796
+And the price was very reasonable, considering the quality of the place.	0.3333594400796638	0.24977162872165293	0.33353054169753626	0.08333838950114691
+We would recommend the Laurel enthusiastically to our friends, unless they need to be downtown.	0.3331952608784708	0.24998425759936263	0.3333205722384678	0.08349990928369891
+OK hotel Stayed 2 nights.	0.33326478623115374	0.249962559570058	0.3335698132492125	0.08320284094957575
+Pros: location, clean large room.	0.33320946541464824	0.24981506232329073	0.33364978725481476	0.08332568500724619
+Cons: free internet only in the business center which has only 2 computers with a sign (15 minutes per guest only).	0.33290508918266704	0.24997503496826712	0.3332301005660054	0.08388977528306041
+No pool, no sauna, no whirlpool.	0.3332507911015295	0.24977281104971283	0.3332760787638473	0.08370031908491027
+Overall a good experience	0.3330440689991091	0.24989578648734065	0.33357411408173615	0.08348603043181403
+Stayed here about 3 times in the past four years.	0.3331348898822234	0.25003133745918094	0.33345030592851393	0.0833834667300818
+Used to stay at the Boston Park Plaza Hotel and Towers but when the rates when up found the Radisson online and it is right around the corner from the Boston Park Plaza.	0.33305445778914955	0.25014438028712027	0.33325173871590164	0.08354942320782847
+GREAT LOCATION: Close to the theatre district, Boston Common, Newberry Street, and the Long Wharf area.	0.3332621084178404	0.24984292228082475	0.33334842725983815	0.08354654204149678
+The rooms are big and are fairly priced for a Boston hotel.	0.3330175605365944	0.25018952332147226	0.33319760297763523	0.08359531316429822
+Only compaints are that the service is a little slow during busy times and during one of my stays there were three or four tiny ants on the floor.	0.3329568823520141	0.25007508981600235	0.3332473448598908	0.08372068297209287
+Like dating a supermodel...	0.3331018859100092	0.2499603658432273	0.33328952931169425	0.08364821893506912
+Yes, this is a beautiful hotel, but aside from that there is nothing.	0.33301941604786267	0.25009742190898465	0.3333148837415114	0.08356827830164117
+Service: abysmal (you are supposed to be assigned a peronal assistant to cater to your every whim...I got a phone number which was always busy and a front desk that could care less).	0.332943844236307	0.2502092208556056	0.33317059447826275	0.08367634042982472
+Noise: Constant (until 4AM, front desk unapologietic, room on 3rd floor as if on the dancefloor).	0.33288730123697063	0.25010377937665534	0.3333099363524005	0.08369898303397341
+Room: Large, well furnished and stylish, but the sink, toilet and bath all overflowed.	0.33322574406903815	0.24984325743095603	0.33344702562530354	0.08348397287470208
+Management was receptive to comments upon check out, but acknowledged that the hotel was having trouble with staffing/noise/growing pains.	0.3330079615387233	0.2501456039079311	0.3333166196277148	0.08352981492563084
+In the end, not even close to worth it.	0.3330416072475869	0.2500752476799322	0.3333211587858196	0.08356198628666137
+Pool closed, lobby torn apart and the owners	0.33328437671585887	0.24971851065743902	0.33344940207782725	0.08354771054887476
+Refuse to notify guests!	0.33311893601659726	0.25000964614474835	0.3333526792661007	0.08351873857255368
+I was supposed to stay at this hotel on Canal Street for 3 nights at the end of June using a coupon for one of them.	0.3331747602502273	0.2498106498824498	0.3335091324013324	0.08350545746599039
+Arrived in N.O. La via Amtrak.	0.33307931115368583	0.24992623951752382	0.33341218751844154	0.0835822618103489
+I was advised to take a taxi to the hotel rather than the bus as, since Katrina, the buses in the area of the train station/arena/Superdome are irregular.	0.33313801814570865	0.2500651182663612	0.33323554087828067	0.08356132270964951
+There isn't much in the train station, but there is a Subway restaurant, some sort of coffee shop (which may be attached to the Subway), a small gift shop and both Amtrak and Greyhound ticket counters.	0.33302861882341267	0.2499833151056022	0.3332631571288731	0.08372490894211214
+A few police/sheriff's officers were present, and very polite and helpful in providing taxi info.	0.3331825552119211	0.24989558951757623	0.33340401726977886	0.08351783800072392
+My cab driver had just gotten his tax the day before.	0.3331517312469708	0.2500417244946721	0.3333328746966633	0.08347366956169398
+He lost everything in the storm.	0.3330010049991742	0.2502359559397405	0.33327901979699676	0.0834840192640885
+Very nice man.	0.3333742470932011	0.24975644235659628	0.33343977326058194	0.08342953728962059
+I can't believe that people in FEMA trailers have to pay rent on the space for the trailer.	0.33302083517695935	0.2500256801900328	0.3332482152781767	0.08370526935483127
+Don't get me started.	0.33302151129448254	0.2501206159340053	0.3332549072032594	0.08360296556825271
+Back to the hotel.	0.33328746593808917	0.2500813610717071	0.3333957755621263	0.08323539742807735
+Cabs to the hotels are a flat $11.00 (which includes a $1.00 fuel surcharge).	0.3331185567169345	0.25008895037069845	0.33326347081349605	0.08352902209887089
+Canal Street is under repair, as is much of the city, even two years after Katrina.	0.3332494437617466	0.24981310377894977	0.33332024869769605	0.08361720376160763
+Mostly the sidewalks are being rebuilt.	0.333110952798407	0.2500031487930102	0.3332784020261078	0.08360749638247485
+I didn't have a problem with the construction in the city and I came down mainly because NOLa needs support.	0.33316067840411673	0.2499553559261516	0.3333066584760067	0.0835773071937249
+Upon arrival at the Marriott, I knew things were not going to be so swell.	0.33296166197137916	0.2499943863720466	0.3333642130610937	0.0836797385954805
+First, there were two uniformed associates outside, a doorman and a bellman.	0.33320301000137653	0.2497920949860105	0.33332661952205045	0.08367827549056248
+While one opened my door, neither of them got my bags out of the cab, nor did they offer a single female assistance into the hotel.	0.33310810020433695	0.25003246789536954	0.33323592102045185	0.08362351087984181
+Strike one.	0.3331325747764731	0.24991354066224095	0.3333358450891663	0.08361803947211958
+Upon entering, the entire lobby is under construction, so you have to lug your stuff up an escalator to the temporary lobby on the second floor.	0.33311332919113734	0.2500415965316801	0.33322812650042566	0.08361694777675678
+Let me explain.	0.33305449598096504	0.2499634659010078	0.333265471439078	0.08371656667894911
+I have no problem with renovations.	0.33314847579069096	0.2499331970760031	0.3333044720255703	0.08361385510773563
+BUT, this hotel made NO mention of any renovations on their website.	0.33313702739659506	0.24984000125027536	0.3333897486078918	0.0836332227452377
+I checked and double checked, and called Marriott's Platinum desk and asked them to verify that no mention was made.	0.3330673539346639	0.2500404069355035	0.33328619277133065	0.08360604635850186
+There was nothing.I checked in.	0.3330006758589499	0.25002543751858186	0.33330616030013716	0.08366772632233103
+Actually, I was one day early but since the hotel was about 17% occupied, it wasn't a problem.	0.3331110736907714	0.2500258688487933	0.3334601972124634	0.08340286024797182
+I was given a room in the river tower with a view of the other tower and pool.	0.33318418704861086	0.24984968231108015	0.33349769261326934	0.08346843802703975
+The pools are closed for repair.	0.33304465905678254	0.25003150317299405	0.33333178022947824	0.08359205754074514
+Again, I was not informed of this in advance, nor at check-in!	0.33287299468842996	0.25025385819975443	0.33323844923675305	0.08363469787506247
+The Concierge lounge, access to which I receive due to my frequency of Marriott-branded use, was across the hotel resulting in a trip down the elevator, across the lobby and back up.	0.333219299854336	0.24998112513364493	0.3332270913605082	0.0835724836515107
+Oh well.A side note about the elevators.	0.3332150537864193	0.24991829222337258	0.3333929545492438	0.08347369944096425
+Marriott seems to be adding fancy, high speed elevators to it's large hotels.	0.3330339370339068	0.2500458977231445	0.33326872002962055	0.0836514452133282
+The first I saw this was at the Marriott Marquis in NYC.	0.33311297832770387	0.24997385558170412	0.33338779150200304	0.08352537458858889
+You enter your desired floor on the keypad OUTSIDE the elevator.	0.33317072631867084	0.24997914393852017	0.3332292803538132	0.0836208493889957
+Then, the display returns the number/letter of the car which will take you to your floor.	0.33311334580014484	0.25008794994261574	0.33314860472865465	0.0836500995285847
+So, make sure you pay attention!	0.3331486842757187	0.24997811899100925	0.3332745907119656	0.08359860602130645
+The room was small with no view.	0.33303975775328826	0.24997463697270736	0.33347316615760836	0.08351243911639594
+The room was very noisy.	0.33311228862865194	0.2500000267321335	0.3336421466363082	0.08324553800290649
+I was told that all windows are being replaced with double-paned glass.	0.3331116274319117	0.2500155372497423	0.3334022835866275	0.08347055173171844
+Honestly, you can hear people whistling at other people on the street.	0.33333251819441745	0.24963224209193974	0.3334728841221752	0.08356235559146774
+Also, construction on the street starts at about 6:30 AM so forget about sleeping in.	0.3331494301537942	0.24990536058557705	0.3334111303191629	0.0835340789414659
+Again, I was up early and I don't have a problem with rebuilding.	0.3331073352573684	0.25012712022328926	0.33335487262846974	0.08341067189087248
+I took a walk through the hotel.	0.33316920363223795	0.24996424575861825	0.33349945774349865	0.08336709286564506
+Frankly, most of the associates didn't acknowledge anyone's presence.	0.33314624966491807	0.2499280336096589	0.33340721316201644	0.0835185035634065
+The sole person who convinced me to not leave was one of the security guards.	0.3330664741757654	0.2501212529877582	0.3332471916757986	0.08356508116067779
+She took it upon herself to escort me to the front desk for a room change.	0.3328427697689726	0.2502915946463126	0.3331772182671828	0.08368841731753211
+I was informed by several associates and managers that the owners of the hotel (it is my understanding that Marriott owns the people but others own the building) refused to inform guests of the renovations.	0.33315785583491697	0.24997948061001474	0.3333664667573826	0.08349619679768566
+This is inconceivable, especially given that the rate was $30 more per night than at the JW Marriott across the street and that property is completely renovated!	0.33317938846198153	0.2499700882768476	0.33334994083719477	0.083500582423976
+I was upgraded to a two room suite.	0.33296174840017556	0.2501836398739022	0.3332686879923588	0.08358592373356358
+Actually a standard room with a connecting door into a parlor room.	0.33302207075650686	0.2499547515119064	0.3333749242777902	0.08364825345379664
+The living space was quite nice.	0.33322875320572803	0.24985474469145913	0.3334275189618996	0.08348898314091316
+I had two bathrooms, a dining area, couch, wet bar and there is a Murphy bed in the living room so I suppose it would be great for families, or to sell if the place is sold out.	0.33321932217286987	0.2499165308899011	0.33338230082718506	0.08348184611004393
+Not likely any time soon.	0.33296575419122276	0.24998965431536604	0.3334493288303915	0.08359526266301957
+The food and service in the concierge lounge wasn't great.	0.3332022431458028	0.24987348398134185	0.33337536332547457	0.0835489095473808
+OK, the first night, everything was seafood which I don't eat.	0.33303482558225217	0.25018131340639027	0.33342200221177987	0.08336185879957786
+Others may love it.	0.3332406681371698	0.2498851513605198	0.33341202325644886	0.08346215724586147
+There were mini crab cakes, shrimp and a big pot of gumbo.	0.3331454378075685	0.24989158717983986	0.33331947061949696	0.08364350439309463
+Problem is, the fishy smell overpowered the lounge, and the elevator landing outside.	0.33319412442408486	0.24996816919454234	0.333288027380959	0.08354967900041381
+Fish shouldn't smell fishy or like garbage.	0.33307432919134683	0.24993371343129017	0.3333149561550817	0.08367700122228117
+It shouldn't really smell at all.	0.3332991168290208	0.2498089142199931	0.3334907330741595	0.08340123587682653
+Yuck!	0.3331170676011197	0.24995209446379257	0.33333263474375435	0.08359820319133332
+Also, for breakfast, the food was OK but there were no English Muffins, minimal pastries and cereals and just not a big selection.	0.33314080628280596	0.24991115366437638	0.3334248234837719	0.08352321656904589
+It looked nice, whatever there was of it.	0.333214929004267	0.2498411319959227	0.33338212326110017	0.08356181573871012
+However, when I went to get butter balls for my toast, a piece of glass about 1 inch square was commingled with the butter and landed on my toast.	0.33298707117558746	0.25009486225845134	0.3332864903111186	0.0836315762548425
+I had to go into the little kitchen to find someone to show.	0.333120873423062	0.25016383635872813	0.33318047913947296	0.08353481107873684
+Her response was, oh Ill take care of it.	0.3331608798625038	0.2500113705912868	0.33328311585638576	0.08354463368982352
+Not I'm sorry or some other words of concern, just Oh.	0.3331180283268909	0.24978316661369235	0.3334203361884935	0.08367846887092317
+Needless to say, breakfast that day, and each subsequent day was cafe au lait and beignets at Cafe du Monde.	0.3331391525310492	0.24997091703969945	0.33335450940511735	0.08353542102413393
+YUM!	0.3331236355688657	0.24996500248455003	0.3333391862778136	0.08357217566877059
+The restaurant is temporarily located on the 41st floor in what was the fine-dining restaurant pre-Katrina.	0.3329877335551065	0.25005143869077706	0.3332839848585456	0.08367684289557094
+There are a couple sandwiches, some entrees including fish and steak, and appetizers.	0.33305469480298255	0.24995687619360918	0.33334452993862507	0.08364389906478334
+But, dessert-wise, they had cheesecake, chocolate cake and ice cream.	0.3330829931844957	0.250002800889829	0.3333131314487041	0.08360107447697113
+Come on.	0.3331139761495973	0.24991046757220092	0.3333248222067033	0.0836507340714984
+I know it's slow, but this is NOLa, can we at least have bread pudding or something yummy?	0.33317783578644067	0.2498243000027818	0.3334887875320796	0.08350907667869784
+The turkey club was good, albeit served just on run-of-the-mill white bread, not the advertised sourdough.	0.3330437589285791	0.24999089860049695	0.3333085493069551	0.08365679316396876
+When I saw that on the bar menu the second night, I asked the bartender.	0.33287810860067973	0.25012382799142285	0.3331740207924667	0.08382404261543054
+She said never in 20 years has it been on sourdough!	0.33313729962464095	0.24991708875300522	0.3333075584572729	0.08363805316508087
+Prices in the restaurant were reasonable for New Orleans.	0.33298339472717486	0.24998336824086978	0.33353322314607786	0.08350001388587741
+Typical hotel prices, although room service is around $2.00 per item more than the dining room, plus a 21% service charge and tax.	0.3331450130663188	0.24999395050554038	0.3334282223171998	0.08343281411094092
+That's a little too much if you ask me.Overall, the city is still almost empty which is a shame.	0.3332237684648109	0.2499877711931518	0.33322826556171353	0.08356019478032381
+I haven't been here for some 20 years and I don't recall too much.	0.3331652122053782	0.24984656750900636	0.33354602437438163	0.0834421959112339
+The French Quarter is indecent shape but there are a lot of vacant buildings.	0.3330908090604194	0.25001729737684575	0.3332871985295632	0.08360469503317183
+Also, while I remember lots of bars, I didn't remember seeing as many of the, hmm, adult-type places as I did this time.	0.33301575117000093	0.24995209475481173	0.3333506665631593	0.08368148751202797
+In conclusion, New Orleans needs support.	0.3331057676450163	0.2499928193557816	0.3333720241379684	0.08352938886123377
+It still can be a charming city again and I am sure that new developments (I saw a big TRUMP banner on the cab ride over) will help.	0.3331185590606666	0.2500609890652056	0.3333025946305677	0.08351785724356002
+y problems weren't with the city.	0.3331579018730506	0.24995949559455707	0.3333749098144842	0.08350769271790802
+Most of the people I encountered outside of the hotel were very nice.	0.3334793699887668	0.2495575152222304	0.333590607496379	0.08337250729262367
+80% of the people IN the hotel couldn't care less about whether guests are there.	0.33313697920495666	0.24993217400690654	0.33326403057484794	0.08366681621328878
+I wanted to shout.	0.3330722858465839	0.25004909135652187	0.33326212648600223	0.08361649631089194
+.I came here to support the city, can you at least PRETEND you are glad I am here??	0.333282542740425	0.2499861409287101	0.3333789133875863	0.0833524029432787
+When I went to the desk to hand in my certificate, both the associate and manager told me I had to call in advance and that the certificate (a print out from the Marriott Rewards Platinum page that says PRINT THIS PAGE AND SURRENDER) was no good since it wasn't the certificate.	0.33295876197838664	0.250238371697753	0.3331843212491014	0.0836185450747589
+Frankly I still don't know what they were saying, aside from implying that I am an idiot.	0.3331408196772172	0.2499729880217108	0.33332547045703753	0.08356072184403435
+So, after only 2 nights, I lugged my stuff down the escalator with no help, across the street and checked into the JW a day early.	0.33319545843843873	0.24985244194932055	0.33330164342130353	0.08365045619093714
+We shall see how THAT goes.I won鈥檛 return to the Marriott and I suggest they get their act together and inform people of the renovations.	0.3331709237096644	0.24997152183986418	0.3333006419269299	0.08355691252354167
+Out of all the associates I encountered, only two-a female security guard and the aforementioned bartender, were nice.	0.3332907299132771	0.24973359159284692	0.33344736200914044	0.08352831648473548
+Excellent Hotel Lovely hotel,quiet location just off la Ramblas.	0.33338889384808845	0.24977018659755146	0.3334375508543945	0.08340336869996556
+Efficient and friendly staff.	0.3332835536893001	0.249915198696397	0.3333494541764703	0.08345179343783253
+Spotlessly clean.	0.33327140834207775	0.24973433800087297	0.3335821875401292	0.08341206611692002
+Watch out for the pickpockets, and gypsies carrying babies !They will put a newspaper on the table and pick up anything under it !!! Dont get caught on the pea under the cup trick ! Its a big scam by an organised gang.	0.33312222217436094	0.25000306481609597	0.33327939683409	0.08359531617545299
+The only winners are part of the gang themselves !!	0.33305939982736016	0.2500432731165195	0.33324517428349326	0.08365215277262697
+wonderful wedding my husband and i had planned to get married abroad.	0.3331380914514582	0.2501184684794454	0.33333121267555815	0.08341222739353835
+when we saw secrets excellence at punta cana we instantly fell in love.	0.33318828674934187	0.2497999635882114	0.3334794328751838	0.08353231678726308
+we paid extra for the wedding package, room upgrade and the excellence club, it was money well spent.	0.3331295444519236	0.2498105534194932	0.3336355835224427	0.08342431860614039
+the hotel, and its staff were brilliant and could not do enough for you.	0.3329891724211072	0.2500704969481191	0.3333799566831984	0.08356037394757519
+as we had paid for the excellence club we were whisked away on arrival and taken to an air- conditioned room ( which we both welcomed being from Scotland) and were given a glass of bubbly.	0.3330840494373768	0.24982239148895358	0.33356813638496324	0.0835254226887063
+this was a lovely start to the holiday.	0.3330632698613716	0.2500913537998586	0.33340722681331636	0.08343814952545361
+as for the wedding we met the wedding co-ordinator, Iveilesse, the following day and she covered every aspect of the wedding planning and more!	0.33309602020758905	0.24995705809154833	0.3333144324855362	0.08363248921532651
+we took our parent with us and we all truly relaxed and enjoyed every moment.	0.3333954406290052	0.24958240523095226	0.3335566815068441	0.08346547263319858
+the staff cant do enough for you and are so polite.	0.3332108805379412	0.2500922120789854	0.33329355154472456	0.08340335583834874
+make sure you have plenty of $1 bills or 50/100 peso notes the really do deserve their tips.	0.3332901731511095	0.24988131983714756	0.3333029161393009	0.08352559087244202
+the hotel and the rooms were imaculate. ohh and what a room.	0.33327150060305266	0.2499026436639956	0.3334100159180887	0.08341583981486292
+the bed is enormus and the jacuzzi you can both lie out in at the same time.i cant say how great a time we had just go and enjoy every moment.	0.33334154778774294	0.24983941649334943	0.33329787497684843	0.08352116074205919
+it was that good were are going to book into one of the other secret resorts for next summer!!!	0.3329834865402637	0.2500128422059653	0.33331817882753245	0.08368549242623846
+Efficient, No frills	0.3331407117480513	0.249895555653813	0.3333021326412199	0.08366159995691573
+Decided at 1am one night to visit Paris for a couple of days, searched and booked 10hrs later through boookings, finding a room ready and just sufficient to sleep a family of 4 with 2 children under 5 a few hours later.	0.333021871296512	0.2500769516152669	0.3332818648812091	0.08361931220701192
+Even though the initial request for extra bedding wasn't made very clearly we were accommodated and looked after properly.	0.33313501503608034	0.24984094287873176	0.33347555514932503	0.083548486935863
+Should you be driving: Reasonably well located, near to the outer peripheral road (just watch out which exit you take from Place de Nation...).	0.3332342359027609	0.24994830479379232	0.3333132253247086	0.08350423397873809
+Parking at the park house Picpus recommended (10min walk away from hotel).	0.33320728511034753	0.2499951327646855	0.33337862254600276	0.08341895957896427
+Could have done better	0.3329422242491142	0.24998669374477497	0.3333261824284234	0.08374489957768741
+The hotel itself was interesting since it is 'round', the staff were polite but the hotel itself is understaffed.	0.3331364346654131	0.2500321717433704	0.3334521821402311	0.0833792114509854
+The breakfast was yukky.	0.3331609652857774	0.2499751333384034	0.3333464077900496	0.08351749358576954
+Although the rooms (suites) are a nice size, the decor was marginal-i.	0.3331220225476534	0.2501272557203861	0.33317811913346007	0.08357260259850052
+e. wall paper coming off walls, bathtub stained, shade pulls very dirty, stained bedspead and cruddy/filthy windows.	0.3331467093761288	0.2499419995126554	0.33335715873836325	0.08355413237285272
+The price was ok but after staying-I would expect that the rates should be lowered.	0.3330531751464744	0.25013072739248726	0.3334083455531501	0.08340775190788838
+The neighborhood was marginal...must not be far from a landfill-the stink was terrible!	0.33304313422738485	0.2500623736322181	0.33339734415695604	0.08349714798344095
+Don't let the price fool you-it's better to spend a few extra bucks for cleanliness, a walkable neighborhood without someone asking you for money or cigarettes or whatever they may be looking for.	0.3331166091787278	0.24982537630841953	0.3334214913091688	0.08363652320368374
+The dead mouse outside the front door didn't help-nor did the refuse container outside the front door (it was not emptied the entire time we were there-overfull with food, butts, styrofoam cups, etc and smelled horrible).	0.3330695040416229	0.24998839676378665	0.3333665884599216	0.08357551073466878
+I wish the staff well but the rest of it was terrible.	0.3331514256618285	0.2500040742359604	0.33351156759336115	0.0833329325088499
+Never again.	0.3329175111160841	0.2500607087201539	0.3333444381519105	0.08367734201185141
+Great owners, service, location	0.3332797969385289	0.24991176741272988	0.33346755317097104	0.08334088247777013
+Just got back from our vacation in Italy in which we stayed three nights at this hotel.	0.3333772359615082	0.24970524642085792	0.3335855028893013	0.08333201472833274
+We paid 118 Euro a night for a double room in this hotel and were pleased.	0.3329606187679831	0.24991909373863067	0.3336726739681617	0.08344761352522445
+It's right down the block from the train station, which is very helpful for lugging your luggage.	0.3331174021228194	0.2500310995748955	0.3332660758902522	0.08358542241203297
+The room was fine.	0.3330254169427546	0.25017640972826033	0.33336693939808937	0.08343123393089569
+Nothing special, but it was clean, big enough for two and decent private bathroom.	0.33325223615318567	0.24976508758705943	0.3335894847316629	0.08339319152809213
+The breakfast was good - cake, bread, cereal, OJ and coffees.	0.3331266652695042	0.2499403955997088	0.3334412076336976	0.08349173149708933
+The owners and receptionists spoke English and were very, very nice and accommodating - helped us with directions and book reservations at museums, etc.	0.3332259996382928	0.2497887531339482	0.33347181740916837	0.08351342981859056
+Internet was one euro every 15 minutes.	0.3330801563360829	0.24990724300860231	0.3333612729089478	0.08365132774636695
+Location is not bustling - but it is close to everything.	0.33307600971609036	0.2501398317322273	0.3334055143960705	0.08337864415561166
+10 minute walk to museum where the david is, 10 minute walk to duomo, 20 minute walk to uffizi and most other nice parts.	0.3332352214259864	0.24995358524025563	0.3334360095835429	0.08337518375021512
+we were very pleased.	0.3332201746888904	0.24973903167958497	0.33376047547209625	0.08328031815942828
+old fashioned, but still my favorite...	0.33310858541536315	0.2499315422658102	0.3333875359270339	0.08357233639179286
+Fantastic location in the middle of East-Berlin at the corner of two historic streets.	0.33312677072492897	0.24995671735160782	0.33339175390254894	0.08352475802091439
+The hotel was build in the Eastern Germany Days, but its renovated in most parts.	0.3330383845303771	0.24995608509914718	0.33345241321759594	0.08355311715287975
+I was here many times before and have seen all kind of rooms (make sure, you get an renovated one with Heavenly Bed!).	0.3332513955566719	0.250025769956862	0.33330089090895715	0.0834219435775091
+Due to my SPG Platinum Status, this time I had a corner suite with a great view, but it was a old interior...	0.3330156385435617	0.25008646779664845	0.33338799214457593	0.08350990151521383
+Try the breakfast, its fantastic, but expensive (鈧?	0.33319122165944903	0.24992176942439046	0.33347020625032014	0.08341680266584028
+5).	0.3331236219717685	0.24995209068610205	0.3333392061134021	0.0835850812287275
+Beside the location the best thing is the atrium lobby ... very old fashioned, but a great spot! My favorite hotel in Berlin!	0.3333117873776934	0.24977492502699195	0.3335011377880712	0.08341214980724346
+Very Nice!	0.33342906918200227	0.2495939870264197	0.3335840546212415	0.08339288917033649
+I stayed here regularly for work for about 2 months this year.	0.3329845712045241	0.2500586440247755	0.3334764165479226	0.0834803682227779
+This is one of the nicest hotels in the Dallas/Ft.	0.3330826525918125	0.249986071434024	0.3333047627435748	0.08362651323058862
+Worth area.	0.33332921382135566	0.24979028887055632	0.3335584278589848	0.08332206944910311
+It's really one of the nicest hotels anywhere and the best airport hotel.	0.33332076340883643	0.2497606194451861	0.3334472925549338	0.0834713245910435
+The rooms are very nice and clean.	0.33339195674907685	0.24975630958935097	0.3335363725813963	0.08331536108017594
+The amenities are great.	0.3333751283432494	0.2499076734084562	0.33335337400234033	0.08336382424595404
+The service is first class.	0.33306507614529235	0.2500150388096785	0.3334375216322621	0.08348236341276695
+The in-room dining is excellent.	0.3332593292353509	0.24988163665137117	0.3333961304790754	0.08346290363420261
+And the rooms must be well insulated, because I did not ever notice any jet engine noise.	0.3330998610456708	0.2500268253520658	0.333340257404833	0.08353305619743055
+The only downside (or upside depending on how you look at it) is: This isn't a trendy hotel, like some in Dallas.	0.33302708148204463	0.24988656299324588	0.3333091804554497	0.08377717506925973
+So if you want nightlife, you need to drive to it.	0.33329796862357136	0.249844909435044	0.3333678646826394	0.08348925725874519
+The Best My wife and	0.33337907092966557	0.24977803458969638	0.33353806411990994	0.08330483036072824
+I splurged for one night at the Park Hyatt and it was worth every penny!	0.33311873299756883	0.2500445394121049	0.33335351461868135	0.08348321297164481
+We were blown away by everything.	0.3332335162677802	0.24985958568010133	0.3334958551996134	0.08341104285250522
+.the minimalism, the service, the views...everything.	0.3330298892585723	0.2501216368051197	0.33339248344227296	0.08345599049403497
+We did not want to leave.	0.33310697785245774	0.25020952270043567	0.33322116005326435	0.08346233939384218
+They knew my name when I got out of the cab, which was wild, and the intro/check in/walk through was very cool indeed!	0.33312280903446534	0.25002750621271175	0.3333645797180736	0.08348510503474928
+Room was spacious with giant TV and bathroom.	0.33323602321339973	0.24997249735698843	0.3333931953173053	0.08339828411230646
+The mirrors even made you look better!	0.3331877722461404	0.24986454560693236	0.3333047991655273	0.0836428829813999
+Breakfast in bed was delicious and elegant.	0.33321902944316495	0.2499632384207918	0.33330549739181103	0.08351223474423229
+I can't go into everything in detail, but EVERYTHING was great! Want to go back ASAP!	0.33320667421583966	0.24995384911087137	0.3333902955309369	0.08344918114235203
+Business oriented, and highly recommeded for that purpose	0.3329771169341715	0.2499996793352492	0.3332590408326112	0.08376416289796805
+Well, haven't stayed in Four Seasons or Peninsula so hard to compare those clearly spectacular venues.	0.3330666530062057	0.2499539667104194	0.3334113162223117	0.08356806406106324
+But this place delivers for all intents and purposes, no doubt.	0.33318671060524424	0.2498521313063856	0.33343527839537107	0.08352587969299902
+Excellent customer care and the quality and response time for room service is commendable.	0.33313815944967584	0.24992041195420048	0.33347165821511593	0.08346977038100765
+Got upgraded to a suite overlooking Victoria Peak, an understandable gesture considering we book all our corporate guests through this place but still appreciated.	0.3331145711849219	0.24986028266738308	0.3334403006343597	0.08358484551333524
+Abit impersonal though, so if you are looking for a place remembering your name Conrad isn't the first place to look, on most important points it clearly delivers.	0.3331191569179228	0.24998396444994117	0.33338530366381686	0.08351157496831911
+quite adequate for the price	0.33322441483126186	0.24980541259428854	0.3335927209239766	0.08337745165047288
+The hotel is perfect for business travellers.	0.3329409758562633	0.2500031813921077	0.3333231137642855	0.08373272898734345
+But if u are on holiday there are sum negatives.	0.3330757098409049	0.24993563913026087	0.33340741133241647	0.08358123969641772
+Rooms are tiny and the housekeeping isnt there after 1pm, so if u came back late and wanted to sleep in ur room wont get cleaned that day.	0.33308326597827015	0.2501594684757845	0.3333274208487002	0.08342984469724525
+Also, i stayed for 4 nights and the breakfast kind of gets repititive after 2 days.	0.33321470452336543	0.24997999367010135	0.3333521696488271	0.08345313215770624
+But then for the price(67euros a night) i guess it was to be expected.	0.3329511246981153	0.2501574975387675	0.333369513562394	0.08352186420072331
+The staff though is nice and friendly.	0.33344115363247595	0.24980026196380803	0.3333961571860449	0.08336242721767108
+They have a small bar which serves drinks at a reasonable price.	0.333092297568375	0.2499456184324587	0.33352241730388194	0.08343966669528453
+The location is quite good.	0.33318442592721953	0.25002298396745826	0.3334390846307663	0.08335350547455585
+The rooms are clean with windows that open.	0.33308120099095695	0.2500347755158947	0.3333148440980546	0.08356917939509366
+All in all if price is an issue stay here.	0.3333956982286801	0.24975430921180483	0.3336080064981553	0.0832419860613599
+just ok The hotel had nice grounds, and some nice art.	0.33335373992327066	0.24977214683713742	0.3334335924998276	0.08344052073976424
+What I had a problem with was the rooms had thin walls.	0.3332498739679614	0.250046373184406	0.3333250017385956	0.08337875110903714
+I was given a room with connecting doors, when i went down and asked for an alternate room without connecting doors, I was told that 90 percent of the hotel had connecting doors.	0.3330173291837393	0.2500745034470026	0.33336394609087455	0.08354422127838365
+Well I think that only added to the noise problem.	0.3330572733795754	0.25011369394332145	0.33326628372254796	0.08356274895455507
+Our neighbor's phone rang and we could here his conversation, and the toilets flushing.	0.3331861974057929	0.24991640140556032	0.3334436094821452	0.08345379170650168
+I would not recommend this if you want a good nights sleep.	0.3330349735935612	0.2501463074478929	0.3333748861165771	0.08344383284196871
+wonderful wonderful hotel.	0.333196690551301	0.25000067035917756	0.33344255978264237	0.08336007930687903
+All it was promised to be, rooms were spacious, beds were great.	0.33331691138724096	0.24988550145417898	0.3335041729679127	0.08329341419066728
+The workout room had 2 elliptical trainers as well as a few other machines.	0.3330362730701781	0.24993883630857236	0.33345876732370566	0.08356612329754384
+Location is perfect neww the cable cars.	0.3331332842087983	0.250033292518963	0.3332368813046273	0.08359654196761131
+Good sushi restaurant around the corner and a starbucks nearby	0.33289495533144864	0.2500451884446225	0.3333508604738461	0.08370899575008289
+Nice but expensive hotel, shame about the location	0.33335913517662485	0.24989015777980692	0.33349598472391556	0.08325472231965274
+We stayed atthe Melia Bali for the first five nights of our honeymoon this summer.	0.3331171243613225	0.2498811047918835	0.33348857437109036	0.08351319647570356
+The hotel was nice enough - beautiful gardens, lovely pool, nice rooms (but annoyingly damp - all the bedding smelled damp which was very unplesant), but Nusa Dua itself was a dreadful disappointment.	0.3332389093691573	0.24986947989802574	0.3334512184036619	0.0834403923291552
+The hotels there could have been anywhere in the world, only the fact that the word 'Bali' appeared on signs gave you any hint as to where you were.	0.33305236173322206	0.24990290000327225	0.33338664186225186	0.08365809640125375
+The resort is gated, no local people live there, they only come there to work.	0.33314245381613267	0.24983350501236087	0.3332247317508265	0.08379930942068009
+The whole resort is landscaped like a garden and all felt extremely artificial.I would not recommend eating in the hotel restaurants as they charged at least three times as much as the nearest non-hotel restaurant and the food was no better - in fact the hotel food was bland - dumbed down for tourists fayre.	0.33316776789344643	0.24984545697543487	0.33346110211005087	0.08352567302106799
+A simple nasi goreng was charged at 95000 rupiah in the hotel, and around 22000 everywhere else.	0.33308022817049093	0.25004028138773143	0.3333351369545839	0.08354435348719365
+It will cost you less to get a taxi all the way over to jimbaran beach and eat there rather than stay in the hotel - and the atmosphere will be better too.If you are looking for lovely surroundings and don't care that you are in Bali then this may be the location for you, but we flew halfway around the world to see Bali and couldn't wait to move on to our next hotel in Ubud.	0.3332762433503179	0.25001735819950305	0.3333309604177994	0.08337543803237955
+Fantastic Value on Waikiki	0.33303703293230064	0.25001947305941835	0.33345687687627373	0.08348661713200717
+We spent 5 days at this hotel in August 2007 and will be looking no further when we return to Honolulu.	0.3331153514858755	0.24991120901769154	0.33346601289347044	0.08350742660296245
+The hotel is quite small for Waikiki and some rooms are a little dated (because the hotel is being renovated).	0.33317796777156367	0.249962214700319	0.33338847263495447	0.08347134489316275
+It doesn't have a swimming pool or a restaurant but we'd actually call this an advantage.	0.33304668350653144	0.2499005983628114	0.3334851951919029	0.0835675229387544
+With Waikiki Beach right on your doorstep and so many alternatives for evening entertainment, who wants to spend all their time in the hotel any way ?	0.3331894644663944	0.24990366445533918	0.3334150951158478	0.08349177596241847
+The location is simply perfect and the staff must be among the friendliest and most helpful we have ever come across.	0.33343885405877877	0.24984821056130807	0.3335188452910719	0.08319409008884121
+They do everything to help you enjoy your stay.	0.3332384494389735	0.24997083860556849	0.33336243762823625	0.08342827432722169
+The desk staff are great but if you need anything special ask for Leonor who will go out of her way to get what you need.	0.3333758138828965	0.24993077455595755	0.3333956556055884	0.08329775595555747
+We looked around at some alternatives but we reckon this is the best value hotel on the beach front and cannot recommend it highly enough.	0.33322850002861126	0.24979146858433518	0.3335748069825893	0.08340522440446418
+Some good, some bad	0.3331179012993583	0.24978069037518963	0.33363570893204375	0.0834656993934082
+Stayed at the Barcelo Dominican Beach from Dec. 8 to 15 and had a pretty good time.	0.333136978444442	0.249953943570665	0.3334859211532318	0.08342315683166117
+I had read many complaints on this site, and though I saw many negative ones, I figured no matter what I would keep a positive outlook.	0.33318841981203107	0.24985182424292238	0.33345462324188374	0.08350513270316272
+RoomHad to wait about an hour to check in, but they let us go to lunch while we waited as we got there at about 2 p.m. (check in at 3 usually).	0.3330551066820533	0.25005889490991307	0.33340271391231985	0.08348328449571372
+Once we got our keys, we headed off to our section.	0.3332624706495315	0.2497634833630456	0.333462739408021	0.0835113065794018
+I was hoping for something decent, and at first look I could not complain.	0.3328735024696079	0.2500679085206143	0.33335242113504115	0.08370616787473659
+We were in Block 6 (Elite Club section) and were treated to an oceanview room on the first floor.	0.33303803990202624	0.2500219397909412	0.3334062021463176	0.08353381816071488
+We were quite surprised since we hadn't made any special requests and were just supposed to get a standard room.	0.33323609982725316	0.2497729817755033	0.3335632304213714	0.08342768797587202
+It had a king sized bed, a separate day bed in the tv area and a huge bathroom with shower and separate jacuzzi tub.	0.3334084184919709	0.24987940566450115	0.3333442373112757	0.08336793853225236
+We were essentially a 10 second walk from the beach!	0.3331698226331812	0.24990173470417193	0.333514703483868	0.08341373917877881
+Though we were quite pleased with the room, it did show some wear... peeling paint, a few mold spots near the patio door, and more mold on a few of the cushions on the day bed.	0.33309194108387163	0.24996554429214946	0.3333888781097374	0.08355363651424162
+It was extremely humid so I imagine it's quite difficult for things to dry properly there... hence the mold.	0.33308510026321836	0.2500226947830756	0.33338330625660617	0.08350889869709983
+Other than that, we had a mini bar stocked with beer, pop and water (left the maid $5 the first day and asked for additional water - she kept us fully supplied with the latter!).	0.33307088673420154	0.2500442338584623	0.33330770686021516	0.08357717254712088
+My bf tried the tub, which he very much enjoyed.	0.33296818834844666	0.25008514114216945	0.33325415632504574	0.08369251418433805
+That said, our upstairs neighbours also tried theirs and it leaked into our bathroom.	0.33342398191990763	0.2496645530210088	0.3334448123292833	0.08346665272980008
+It wasn't the end of the world since the water dripped into our tub, but it was a bit alarming that the water was coming from a light fixture in the ceiling!	0.3331783051418768	0.2498659677097572	0.3333586783956839	0.0835970487526821
+Ah well, we just kept the light closed and laughed it off!	0.3331742577968078	0.24989298230313872	0.3333467375859935	0.08358602231406008
+Everything else in the room was fine.	0.3329521134462827	0.2501813746082101	0.33342129857353275	0.08344521337197439
+BeachAbsolutely beautiful!	0.33316150050442633	0.2499814683578646	0.33333221679201	0.08352481434569893
+It was a bit small compared to other resorts I've stayed at in Cuba and Mexico, but the water was pristine.	0.3332090370014421	0.24986724514947586	0.3336262065378029	0.08329751131127928
+There were also plenty of chairs for everyone.	0.3332351664423215	0.24988306372019617	0.33340718765876093	0.08347458217872135
+FoodI'm not really picky so I thought the food was fine as did my bf.	0.33288059461476965	0.2501850400367643	0.3333201090464318	0.08361425630203424
+I was a little disappointed at the variety of fruit for the most part, but I always found something yummy to try at the buffet.	0.3333268799005361	0.24975657495233278	0.3335639094322646	0.08335263571486666
+I also tried the Spanish, Italian, Japanese and Brasilian restaurants.	0.33313205874841206	0.24982920157170196	0.3334165058077127	0.08362223387217338
+For meat lovers, I would highly recommend the Brasilian.	0.33309033921243303	0.25003780929264213	0.3332861937442124	0.0835856577507123
+Apparently the service can be a bit slow, but we were very well served there.	0.3332165414671789	0.2497425111293901	0.3336731292077738	0.08336781819565711
+You go to a mini buffet first for your side dishes and the servers bring you cuts of meat (shish kabob style) directly to your table.	0.33315293263608914	0.24999525544566314	0.3332591503080523	0.08359266161019535
+My next favorite was the Spanish, which had great selection and atmosphere (note that the drawback to the Brasilian was the LACK of atmosphere - no music, glaring lights).	0.3331474801281054	0.25007067332726884	0.333258670700493	0.0835231758441329
+I also enjoyed the Japanese where the cook prepared the food in front of you and does a little show off routine.	0.333187727648578	0.2499359007381829	0.3332422922602017	0.0836340793530375
+Right off the bat, ours got so carried away and the salt shaker smashed into my water glass spraying shards in my sushi.	0.33307132063079775	0.2500339511888588	0.33327755993782665	0.08361716824251673
+Something else I laughed off... they just brought me another plate of sushi.	0.3329909296467473	0.2500704647838946	0.3331915713140752	0.08374703425528289
+The main course was tasty, but I found the sushi wasn't extremely fresh.	0.33320628417179726	0.24993411476699412	0.3333929303485838	0.08346667071262472
+On to the Italian.	0.3330716232489547	0.24996949338296243	0.3333088865361945	0.08364999683188831
+Awful - and like I mentioned, I'm not picky!	0.33295495231343053	0.25009928935327513	0.33334131662608324	0.083604441707211
+I ordered risotto with mushroom with slivers of parmesan.	0.33308950101216317	0.24996334945260934	0.33327966530793407	0.08366748422729334
+I was served a bowl of RICE drowning in a watery cream sauce with parmesan and canned mushrooms.	0.33313164386161653	0.24997388046755292	0.3333245209746915	0.08356995469613893
+If you can't make an italian meal, don't advertise you can!	0.33325405520588913	0.24987359859035135	0.3333013003904704	0.08357104581328904
+ServiceNo complaints here.	0.33310660793082814	0.2499044417795426	0.3334609775449077	0.08352797274472147
+The lobby bar was a bit slow in the evening unless you asked for rum and coke, pina colada or beer.	0.3331948030834179	0.2499026358775369	0.33336149266947607	0.08354106836956908
+I tried ordering something from their menu and gave up after repeating my order four times (I was at the bar 10 minutes!).	0.3331127926978867	0.24999283490875676	0.33334321221878493	0.08355116017457177
+All other spots were great.	0.3334795682144971	0.24953285220923907	0.33361489456329463	0.0833726850129692
+Awesome coffee shop you have to try too.	0.3332939952118655	0.24992343982610005	0.33334773949550117	0.08343482546653344
+The place also offers massages in little huts by the pool and beach.	0.3333619325228794	0.2498567760003478	0.3333555886507779	0.08342570282599505
+I skipped out, but only because we ran out of time.	0.3329831703493588	0.24990503999962735	0.33346673956489986	0.08364505008611413
+PoolsThree on site, but one was closed for repairs at the far end of the resort.	0.3331528042089665	0.2497845796716605	0.33342360273382593	0.08363901338554701
+The others were nice and clean... especially liked the one with the pool bar!	0.33343369054015265	0.24955051955632962	0.3336549173782993	0.08336087252521845
+Would I go back?	0.3331722306465754	0.2500436596163297	0.33336952532209413	0.0834145844150007
+Probably not.	0.3326916008123214	0.25021513496419157	0.3332249006106588	0.08386836361282819
+But for $875 taxes in, you can't complain too much.	0.3331732005079746	0.2498990612028723	0.33341996114859135	0.08350777714056166
+Some of the people who were travelling with the same supplier were really negative (one even complained about the wind being too loud and needing ear plugs!),	0.3332753536051862	0.24983931652809147	0.3335136522914406	0.08337167757528173
+so I think when you read these reviews, you have to take into consideration that everyone sees things differently.	0.33316231351135756	0.24991455212276337	0.3332754143088255	0.0836477200570535
+The resort was just bought by the Barcelo group and has been branded a four star.	0.33331029260291406	0.24974016603996763	0.33335626575999483	0.0835932755971234
+It is definately not a four star.	0.3330963397630321	0.2500152907210023	0.33333272140421777	0.08355564811174775
+When it was under the old name of Ocean Beach, it was considered a three star.	0.3331986206313207	0.24992521063803969	0.3333933833156011	0.08348278541503845
+Obviously, it'll take more than two months to get to the four star level.	0.3333328053326311	0.24989496510397072	0.3333113120118359	0.08346091755156224
+The place has a lot of potential, so I think that once they actually start renovating the rooms it will be a great place.	0.3331951153233154	0.24999085952039088	0.3331344324905651	0.08367959266572861
+Can one have a good time here and enjoy their stay as the resort is now?	0.33311809263443176	0.24977612239492517	0.3335650713376365	0.08354071363300668
+I think so - just keep an open mind and remember that the mentality is very different from what you may be used to.	0.33331367166877995	0.2498110683006488	0.3332615980931427	0.0836136619374286
+Good vacation....	0.33296784239263016	0.2498781032700217	0.3335664565868456	0.08358759775050248
+My review is late by ha lol.	0.3331691315699661	0.24993309857644774	0.33331554483286463	0.08358222502072145
+We enjoyed our vacation, but we have stayed at several Gran Bahia hotels befor and found it allitle blaw as we knew what to expect.	0.33324050505150565	0.24970541780839348	0.3336185251023668	0.08343555203773406
+Flight was long, and there was not much direction as to how to get to the bus.Food was great.	0.33318301683982815	0.2500658967351757	0.3333569540901879	0.08339413233480816
+Room was excellent, we requested to be close to the beach so we were abit far away from everything else.	0.3332293378988663	0.24991633075778705	0.33357520664304113	0.08327912470030567
+Service was excellent.	0.3332224349867737	0.24990029142270498	0.33354897012487283	0.08332830346564844
+Only neg was no one served drinks at the pool.	0.3331865466203065	0.24982760003049426	0.3334003574494927	0.08358549589970649
+Our friends book at the priemer and had a private pool and resturant.	0.333388617540265	0.2496776063463823	0.33349057840939206	0.08344319770396073
+We did not so I would book priemer next time.	0.3328133781161664	0.2502242532539239	0.33331772555214817	0.08364464307776145
+Beach - We enjoyed it but we like diving and this is not a good beach for this.	0.33282340703763186	0.2500862968242031	0.3335538118746038	0.08353648426356133
+We went to a shop ran by someone from Montreal, it is free to go..	0.33309991742619666	0.2501067550942403	0.33326416026802136	0.08352916721154163
+not a good place to get presents very costly, but nice.	0.33305705601196606	0.24998063882232796	0.3334910255757759	0.08347127958992999
+The tents at the end of the beach has nice gifts at good prices.	0.3333154581122747	0.249695140624979	0.3334324002443205	0.08355700101842571
+We gave the guys at the water taxies pop and water and they gave us free rides......just a tip...Don't go on Jrassic Buggie tour, take the other one, it was a great tour but you will never get your video u pay for...... several people had the same problem......Bar/Disco way to many people at a small space, drinks are free but good luck with this.....Overall this was a great place to stay but we found it to be expensive for gifts ect.	0.3331818613068584	0.24986220217446212	0.3335570487119203	0.08339888780675911
+I like to buy friends and family gifts and at 20 us dollars a mug, 25 for a t shirt it adds up.Overall I enjoyed it but would not return.	0.33309564142497433	0.25000458982477214	0.3333869674534261	0.08351280129682738
+have a great trip.	0.33338808896848743	0.24976070592981503	0.3334023767141258	0.08344882838757173
+Very Good Royal...	0.33296138895828936	0.24993444968847675	0.33361860204773763	0.08348555930549621
+Spent three nights at the Royal Ramblas in May.	0.33321868952376693	0.24985368200148428	0.3333685974473687	0.0835590310273802
+We found the hotel on Tripadvisor and advised our travel agent to book.	0.3332466476137473	0.24982420255102405	0.33339464136543595	0.08353450846979285
+We could not have picked a better location.	0.3328566531757306	0.2501799071459037	0.33333576273716	0.0836276769412058
+Right at the Northern end of this legendary boulevard, access to the Gothic center, the best artisan and designer shopping plus the central produce market, is all within a ten-minute walk The hotel was mostly good.	0.33329787502782754	0.2498429914078912	0.3334580600427779	0.08340107352150343
+We felt that the room was a little small but was kept scupriously clean.	0.33309639592928775	0.24996614319766805	0.3337256035433037	0.08321185732974043
+The breakfast buffet was among the best of the sixteen hotels we encountered on our tour and as it is located on the ground floor, right on the street, feels like a proper caf茅.	0.3333146572411929	0.24964732849060692	0.3335225456151133	0.08351546865308683
+We especially liked the tortilla.	0.3331899797311962	0.24989473859023195	0.3334386595320445	0.08347662214652735
+Not many hotel kitchens offered food form the region for breakfast during the tour.	0.3330690120453205	0.24994240562358008	0.33337669541068	0.08361188692041933
+A tip for eating in Barcelona - be wary of any of the restaurants on the Ramblas itself.	0.33309505328140604	0.2499071107677471	0.3333282326253235	0.0836696033255233
+Much better option is to venture a little into the side streets.	0.33317276706124244	0.24992695629022638	0.3332694341156248	0.08363084253290626
+You do not have to go far to experience excellent offerings.	0.3331988211320867	0.25001600367616755	0.33330965539793955	0.0834755197938063
+Do visit the Market for a look and breakfast or lunch 鈥?	0.33312774786980726	0.2498583908948915	0.33343147520642175	0.08358238602887937
+lots of fresh fruit salads and juices plus all the Jamon and olives you can eat.	0.3334226494066365	0.24975337916079193	0.33341716795924453	0.08340680347332713
+Overall a very good hotel and efficient front desk staff who had good English speaking skills.	0.33299302414148846	0.2500359170557015	0.3335114918314894	0.08345956697132048
+Wonderful!!	0.3331751821218171	0.2500093614911493	0.3334111178231775	0.08340433856385601
+WE were at the	0.3332816183823645	0.24957890144437872	0.3337348713207651	0.08340460885249162
+Berchielli for a week, lovely place!	0.33312233249453566	0.24997668660342945	0.3333641931155217	0.08353678778651319
+Good clean rooms, breakfasts were more than ample and served well.	0.33325909739223636	0.2497677234196656	0.33354680384017665	0.08342637534792138
+However, while the staff as a whole was great, there was a man on the desk (name forgotten) that was condescending and a bit arrogant.	0.3331424236777598	0.24997977751187198	0.33336294186544324	0.0835148569449251
+We felt as though we shouldn't be asking ANY questions....We would still recommend this hotel!	0.33318860132769235	0.24989740740530286	0.3335853806537188	0.08332861061328593
+Dave and Maxine Johnson Maine,USA	0.33315634478071326	0.24995858751716032	0.3333436856096907	0.08354138209243585
+Hardly 4-star I stayed at this hotel while on a business trip.	0.33296347474039434	0.2500231516180356	0.3332915624940329	0.08372181114753702
+True, the location is very convenient to the central shopping district and the staff are mostly courteous.	0.3332850977551288	0.25001877778887044	0.3333429935656804	0.08335313089032022
+But, they seem to have only one person on reception and one on bell duty at any given time, including prime check-in/check-out times.	0.33300881054096165	0.2500391850483469	0.3333680716837566	0.08358393272693475
+it is a very noisy hotel -- do NOT get a room in the upper 20s.	0.3330768361887984	0.25005609138192025	0.33341409258074683	0.08345297984853442
+Not only will you hear every flush your neighbor makes but also a tremendous amount of street noise.I have no idea how this hotel secured a 4-star rating.	0.33309697725276893	0.24999152551560688	0.33331017272200136	0.08360132450962279
+Some of the lack of amenities in the $450/night junior suite in which I stayed:No ironing boardNo pants hangersVery few tissues (a small package of 4)A 1x1 bar of soapNo face washclothsOne English channel on TVNo alarm clockNo secured Wi-Fi and have to get new username/pswd each day	0.3330795361018207	0.24995099071722646	0.33331356024499553	0.08365591293595744
+Nice Hotel I just got back from a conference in San Francisco.	0.3333758225608659	0.24973336272031277	0.3334650164722365	0.08342579824658483
+My colleagues and I stayed all over the Union Square area, and my experience at the Bijou was the most positive of our group who tried the botique hotels.	0.3332767640171971	0.24979824037469253	0.33352073203619914	0.08340426357191116
+The hotel was extremely clean and well kept.	0.3333493094340746	0.24980215740506234	0.3335799298877449	0.08326860327311811
+I am very particular about this kind of thing, and have spent a lot of time at other hotels asking to be moved.	0.3330787835232188	0.24996727457782528	0.3333803066861173	0.08357363521283875
+Not here.	0.33270408599915513	0.25030301629569157	0.33337996822539695	0.08361292947975629
+The room was small (which I expected), but nicely appointed and very clean.	0.3330824858553872	0.2498180081687431	0.33372731359113045	0.08337219238473924
+Even the bathroom sparkled.	0.33328227626645	0.24983874389620309	0.33337787018175447	0.08350110965559232
+This might have been the only hotel I've ever stayed at where housekeeping didn't rudely wake me up at 8am.	0.33304478466378695	0.25001398720270634	0.3333684095625032	0.08357281857100347
+The housekeeping staff was very thoughtful about when they cleaned the rooms and they did a great job.	0.3330790109675993	0.25019040842505735	0.33322511608947064	0.0835054645178728
+The front desk staff was really friendly and knew a lot about the city.	0.33323560436365085	0.2499515976396451	0.33328626641739983	0.08352653157930409
+The only downside of the hotel is that our room faced the side stree (Eddy?)	0.3331264489055299	0.24991234115823383	0.3333528497579685	0.08360836017826771
+which housed both an all night liquor store and an all night all male theatre.	0.333309947060845	0.24986886978782114	0.33331340813868376	0.08350777501265003
+In theory that's not a problem, but the reality was the noise from the street was pretty bad.	0.3330005426434119	0.2501542310706735	0.3333669922869527	0.08347823399896198
+I wore earplugs but still had trouble getting any sleep.	0.33316511549231514	0.24988962963378522	0.3334970533564462	0.0834482015174534
+I'd suggest staying at this hotel but requesting a room that faces the main street and/or stay on the top floor.	0.332980906468438	0.2500206727548873	0.33343640137205655	0.08356201940461819
+Or just buy better earplugs than I had.	0.33319630981968873	0.2498778445342522	0.3333165303674998	0.08360931527855917
+:)	0.3331236219717685	0.24995209068610205	0.3333392061134021	0.0835850812287275
+Great Hotel in Good Location	0.3332384131998562	0.24996136254946666	0.33353342618999804	0.08326679806067899
+We have just returned from four night stay at the SoHo from our friends wedding.	0.33330019032745484	0.24977618190773404	0.3334768757350141	0.08344675202979698
+We were lucky enough to be able to book the Romantic Package so got upgraded to terrace room, breakfast and one evening meal included and cava and chocolates on arrival.	0.3331591487183033	0.24992198621531694	0.33341719299438743	0.08350167207199222
+The reception staff and cleaners were really friendly and helpful, all spoke excellent English which was helpful as our Catalan was pitiful.	0.33329183966553144	0.24985070463171796	0.33352846338850306	0.08332899231424735
+The room was great, huge bed, lovely terrace overlooking the Gran Via, huge tv and lovely bathroom.	0.3332877239610641	0.25002474736608327	0.3333803934027091	0.08330713527014368
+Breakfast was on until 11 every morning and had a great selection from scrambled eggs to pastries.	0.33323672027760104	0.25000706694742236	0.3333666591817852	0.08338955359319128
+We really enjoyed our stay here and would definitely stay again.	0.3331938353818718	0.2497931228011774	0.33372734750270816	0.08328569431424271
+99 Percent Stayed at the	0.33315942536571547	0.2499324090492479	0.3333928228753279	0.08351534270970865
+Alila for seven nights in September.	0.3331131287607005	0.2499291912066754	0.33341859447745104	0.08353908555517303
+On arrival we were upgraded to one of the Garden Villas.	0.3331704225053639	0.24982376876225354	0.33346183205840835	0.08354397667397435
+This was situated in its own walled garden with water on 2 sides and a bath leading from the bathroom, surrounded by water.	0.33311793294166037	0.2499737719763625	0.33334377428753226	0.0835645207944448
+The location of the hotel is very spectacular surrounded by rice terraces and overlooking a river gorge.	0.33322633238253	0.24992649502476363	0.33338010235873405	0.08346707023397222
+The staff are very attentive and the service was very good.	0.3332117043301953	0.24996347927450205	0.3336350673181479	0.08318974907715487
+If you have time take the morning trek with lunch.	0.33315595844553925	0.2499960850096754	0.3333708230879749	0.08347713345681036
+You will go out with a guide and experience the countryside at close quarters.	0.3333064684629175	0.24982932334886332	0.3334190364129858	0.0834451717752333
+The lunch is taken on the rice terraces and staff come from the hotel to prepare it for you.One word of warning our party occupied 2 rooms and both rooms had small items disappear from them during our stay.	0.333264660362398	0.24987563021415968	0.3334257952281158	0.08343391419532639
+These were not of a great monitory value, but spoilt what was overall a very good experience.	0.33308690081544373	0.2498143718133757	0.3336250032805172	0.08347372409066345
+With this in mind, it may sway us from visiting this property again, which is a great shame as otherwise our experience was faultless.	0.333085379148496	0.2499313509623871	0.3334807910404354	0.0835024788486816
+Stay Away....Far Away	0.33321888450557824	0.24994956344457364	0.3333407311029244	0.08349082094692367
+This hotel was expected to be top notch...but WAS NOT....as a diamond member status we had to wait 2 hours in the lobby until the room was ready...was upgraded to an ocean view room....but the rooms ARE THE SIZE OF A BIG CLOSET !!!!	0.3329083287953246	0.2503115893002428	0.3333667918116645	0.0834132900927681
+At over $500 dollars a night this is obserd......hotel employees are great though....also a word to the wise the casino is VERY TIGHT.....embassy suites couple blocks away is nicer and not that expensive and at least includes a free breakfast w/ everything you could imagine......rooms a intercontinental are VERY outdated.....and bathrooms are tiny.....beach is nice though here.......you go figure.........I TOLD YOU SO....	0.3332617094627954	0.25001170697192704	0.3333190003361763	0.0834075832291012
+Unusual (and Very Good) Experience	0.33310343076613086	0.249901594026264	0.3335859678312662	0.08340900737633886
+I stayed at Hotel Max for 9 days during a conference in early June, and it was an extremely good value.	0.33307264536489845	0.24998833856368097	0.33346579648492664	0.08347321958649379
+The reason I chose this hotel was primarily price, and location within easy walking distance of the convention center.	0.3332179457782092	0.25007536558866145	0.3333371975661241	0.08336949106700511
+For the price, I don't think there is a better hotel in downtown Seattle.	0.33311626203504996	0.2498017051875475	0.3334534086819095	0.08362862409549301
+The hotel had fun modern decor, and the staff were very friendly, intelligent, helpful, and uniformly young (nearly all under 40 years).	0.33340161784876166	0.24973033911569792	0.33351810295073303	0.08334994008480735
+The rooms are quite small, (although not all the same size for doubles), and the room was clean.	0.3330497475122459	0.2500882461583111	0.33345478429685904	0.08340722203258388
+The beds were extremely comfortable, and the rooms surprisingly quiet.	0.33336103169337994	0.24987577610165126	0.3333645698796556	0.0833986223253133
+The bathroom was clean, and so modern that at first I could not figure out how to drain the sink (I thought it was malfunctioning), but a quick visit from maintenance showed I just wasn't hip enough to figure it out.	0.3330402312863417	0.2500918964962656	0.3333992918425802	0.08346858037481239
+One bad thing was that our shower curtain smelled of mildew.	0.3333146114049173	0.24980038697518592	0.33346306918226565	0.08342193243763105
+Some helpful and **FREE** amenities of the hotel include a very nice business center, and a small, well equipped gym on the second floor.	0.33310864667222073	0.24979821080409273	0.33343071358079535	0.08366242894289114
+The business center has a couple computers and even a printer for guests (internet service in rooms requires an extra fee).	0.33292885504474196	0.2499752866479301	0.3333132215231761	0.08378263678415179
+The gym has several quite fancy treadmills and some free weights.	0.33322155293347044	0.24979396673456666	0.3333594250978122	0.08362505523415073
+The staff was also very flexible about splitting our bill several ways (I was sharing a double room with two other people).	0.33331311483440973	0.249699865730136	0.33360450952142656	0.08338250991402767
+My only complaint was that one night the television stopped working for no apparent reason, and the maintenance man was unable to fix it.	0.3329108747859509	0.2502085022217788	0.33321371801216354	0.08366690498010686
+It eventually started working again, also for no obvious reason, so I never figured out what was wrong.	0.3329777065665576	0.25010465800785525	0.33329755347280554	0.0836200819527815
+We ate in the attached bar Red Fin, and the food and wine were very tasty.	0.3333568735355505	0.24976678328535637	0.3334643405236233	0.08341200265547
+The hotel has a nice location within walking distance from the convention center, space needle, waterfront, and Pike Place Market.	0.3333746035087075	0.24993140541782297	0.3333852136511406	0.08330877742232903
+Don't miss the nearby Palace Kitchen Restaurant and the doughnut shop that are on 5th Avenue.	0.3330642777675419	0.24999288680876433	0.33332345854813256	0.08361937687556113
+Both are yummy.	0.33311872511617513	0.2500053120109006	0.33327830280067045	0.08359766007225375
+The pool was the highlight!	0.33322636318293875	0.24987071900916843	0.33341567377479236	0.08348724403310039
+My hubby and I just returned from a 1 week stay at the Majestic.	0.33323816058041067	0.24991416327701382	0.3333978113598997	0.08344986478267571
+We travelled with Sunwing Vacations out of Toronto.	0.3331234559420347	0.249913014237392	0.33340486580891604	0.08355866401165717
+Overall, we had a great time.	0.3333256740164248	0.24970784922087974	0.3335882406888524	0.08337823607384298
+This is most definately a RELAXING vacation, which I found to be a bit difficult to do at times.	0.3332133312537184	0.24991191634285023	0.33340997357122126	0.08346477883221003
+This was our 1st all inclusive vacation as we usually go on cruises (Royal Caribbean).	0.3331431070397684	0.24973935181373058	0.33359300928681135	0.08352453185968962
+Due to the fact that we are experienced cruisers, an all inclusive vacation had alot to live up to.	0.3332175438929743	0.2499986521881518	0.3333728848452841	0.08341091907358979
+The Majestic did not disappoint in most areas.	0.3329533721290628	0.25012506320266364	0.33342523885588876	0.0834963258123847
+The regular junior suites are amazing.	0.3332819593089922	0.24999032273956195	0.33324803119009155	0.08347968676135423
+I did ask before hand to have a room in building #2 overlooking the pool.	0.3331173151641094	0.2500257323509169	0.33340366994717785	0.08345328253779595
+After arriving we were put in building #3.	0.33318346261665793	0.24989127780844014	0.3335141549799402	0.08341110459496168
+I asked to switch rooms and they did give me a bit of a hard time saying I did have a pool view.	0.33298926147534025	0.25019196994289933	0.3332493014669606	0.08356946711479998
+But building #2 is so much closer to the pool they eventually switched us.	0.33313146098477286	0.24994411803286834	0.3334405454802373	0.0834838755021214
+One thing you must ask for when checking in is a Majestic Passport.	0.3331661523379937	0.2499100186696942	0.3334093225345846	0.08351450645772746
+I can't understand why they don't just hand these out to visitors.	0.3329830323399738	0.2501093729529232	0.3331982385171138	0.08370935618998919
+Otherwise you have no way of knowing what the restaurant hours are, rules about the towels, housekeeping number to call, etc.	0.3331482151559795	0.2500326525333298	0.3331787714668154	0.08364036084387547
+There is absolutely no information in your room about anything to do with the resort.	0.33338353105534974	0.2497704461570409	0.3332451753743237	0.08360084741328558
+That was a bid frustrating, but luckily we had the passport.	0.33305965479003485	0.25002277340514373	0.33341907116819663	0.08349850063662491
+Now for the food.	0.33330313901086833	0.2496605183673051	0.3335238040861838	0.08351253853564268
+This is mostly where the Majestic loses 1 star.	0.3330586954491157	0.2500562424835166	0.3332862245565421	0.08359883751082546
+The food doesn't even compare to cruise food.	0.33327382637214986	0.2498406465522919	0.333392113776355	0.08349341329920333
+If you haven't cruised before, then you'd probably think the food was pretty good.	0.33324902862163036	0.24983348958402068	0.3333709911410147	0.08354649065333418
+The Supreme buffet is pretty good for breakfast, but many items are cold.	0.3329758179787839	0.24996240340507297	0.33331952375367846	0.0837422548624646
+I always got my eggs or omleets prepared by the cook to ensure they were fresh.	0.3331787121418942	0.249894653745991	0.3333543651296813	0.08357226898243339
+The crepes were my favourite part of breakfast.	0.3331213284686613	0.2499551545598596	0.3334065370572979	0.08351697991418111
+Lunch at the Beach buffet was OK.	0.33309919516224484	0.24997361899640871	0.33349282262642166	0.08343436321492471
+Not alot to choose from.	0.3330063983952555	0.25005558661574506	0.33336387938193485	0.08357413560706457
+We would have done better to eat at the Supreme buffet but we were always wet from the ocean/pool.	0.33326776940048586	0.24966193353506358	0.3336705303136229	0.08339976675082755
+For dinner we tried the Japaneese, Le Gourmet, Rodeo Steakhouse and main buffet.	0.3331299717042115	0.24981242971011913	0.33351239761755624	0.08354520096811308
+The Japaneese wasn't as fun as I was hoping for.	0.3328991634205213	0.2500249104746535	0.3334118077320806	0.08366411837274455
+Perhaps our table was a bit on the boring side, but the cook didn't even ineract with us.	0.33317537741507225	0.24978310634923861	0.3335169379074175	0.0835245783282718
+Le Gourmet was good.	0.3329903939031245	0.2500270056220759	0.3334394917897003	0.08354310868509923
+It was nice to finally eat at a restaurant that wasn't buffet.	0.33300113312201873	0.2500581788218905	0.33343280510652284	0.08350788294956782
+I probably enjoyed the main buffet the best just for the variety.	0.33316346122059737	0.24973601312131533	0.33350041312902595	0.08360011252906129
+I found at all places they tend to cook with ALOT of oils and salt.	0.33329527226465183	0.24988860445931912	0.33333112557464106	0.08348499770138786
+There is no way I could stay beyond 1 week at the Majestic as the food choices were getting quite boring and routine after a few days.	0.33322608298627615	0.24982487684829696	0.3334135081132799	0.08353553205214691
+We never got sick thank goodness.	0.33306142219487667	0.24993533917171373	0.33334627261124633	0.08365696602216337
+The resort grounds are beautiful.	0.3332608044877281	0.24995605601859783	0.33328252949867754	0.0835006099949966
+No complaints there.	0.3331982049881383	0.24972259244097622	0.333366547598225	0.08371265497266042
+We visited the Bahia Principe next door and were VERY glad we chose the Majestic as their layout is much more preferred.	0.3332577910022527	0.24983436306773854	0.33339291169201724	0.08351493423799147
+The pool is incredible and the ocean was fantastic.	0.3333571533973312	0.249924211649121	0.3334339180859479	0.08328471686759982
+The resort couldn't have been more than 50% full so there was always a shady spot to sit.	0.3332276649185965	0.24974081465497108	0.33344799268445174	0.08358352774198079
+The entertainment crew did a great job.	0.33317561925383593	0.24997202810534083	0.33334117240602	0.08351118023480313
+They had so much energy!	0.33306113498874557	0.25011288911868046	0.33327869350797956	0.08354728238459436
+We saw all the shows at 10 pm and they were good.	0.33322926598896807	0.24967957442051789	0.3336026172622986	0.08348854232821531
+Perhaps a bit long.	0.33320593723021763	0.24979701191034265	0.33343164360205196	0.0835654072573877
+Due to the comfy chairs I usually fell asleep.	0.333173030736395	0.2500024412627724	0.3333110132575532	0.08351351474327937
+We did 1 exchursion.	0.3330619417928042	0.24999944659388842	0.3333774881863659	0.0835611234269414
+The Marinium tour where you snorkel with sharks/stingrays.	0.33326545222083015	0.2498415896603686	0.3333499476610014	0.0835430104577998
+That was pretty fun.	0.3330072668090519	0.250062700952527	0.3332984375492562	0.08363159468916481
+The sharks were much bigger than I was expecting.	0.3331786962822416	0.24995181444041087	0.3333781600385769	0.08349132923877055
+If we were to go back to the Dominican I think we would stay there agin.	0.33322974660478194	0.24991353792594284	0.33348702042908135	0.08336969504019377
+I can't imagine a more beautiful resort or more helpful staff.	0.33328900393489813	0.24985818188333372	0.33334585261480554	0.08350696156696256
+The food is just part of the deal and it has to be expected to be a bit lower quality compared to cruise ships.	0.33329606520343263	0.2499074731793294	0.3332767473619106	0.08351971425532755
+Lovely Small Hotel	0.33305722413189437	0.2500267009534006	0.3335244104700469	0.08339166444465825
+Just stayed 2 nights recently, hardly stayed in the room as we walked all around the Old and New French Quarter area.	0.33318833033404555	0.2498775245022035	0.33355694208425596	0.08337720307949491
+Live music, shops food.	0.33342896008200623	0.2497354695241176	0.3334921859313625	0.08334338446251356
+I was surprised as one morning there was a wedding by the pool and the day before I saw a wedding too.	0.3331750947325182	0.24983253425709157	0.3334935452513777	0.08349882575901243
+The French Quarter is now full of people getting married by some Dr. Jerry in New Orleans.	0.3332305456611952	0.24980882920982797	0.33342974022357924	0.08353088490539758
+I liked the hotel as it was close to all that I wanted to see and do.	0.3331194543896755	0.25006347633115883	0.33334197300567453	0.08347509627349095
+Nice staff too.	0.3332529807666985	0.24989683239981933	0.3334406493718977	0.08340953746158437
+We stayed in room 408 and it was great.	0.3332493131403843	0.24991391773273272	0.33356129426118913	0.08327547486569387
+Everything was SO CLEAN and SO NEW and SO WELL DONE!	0.3331026579801957	0.2499460885044518	0.33361617264100757	0.08333508087434482
+I loved te sliding bathroom door and the beds were very comfy and so were the pillows and bedding.	0.33335635112542605	0.24977675925033824	0.33348355510335514	0.0833833345208805
+I'm turning GREEN so knowing I was helping give back was also a HUGE plus!	0.33321679969676654	0.25003140574454946	0.33344520293289265	0.08330659162579131
+I'd stay there everytime!	0.33311011342618413	0.24985874295145044	0.3334100888427704	0.08362105477959493
+Do beware that a soda at the bar will cost you $3.56 before tip!	0.33320488191080816	0.24988612556995518	0.3332855680439333	0.08362342447530328
+A bit pricey for a can of Sprite.	0.3331502906397593	0.24987676345180776	0.3333716545577153	0.08360129135071759
+Very convienent to everything.	0.33318195534585926	0.24997891494616373	0.3334709755757937	0.08336815413218322
+The Cafe across the street, Cade De le Presse is delicous! Order the french toast!	0.33312078035573606	0.24992390715977875	0.3333054592321257	0.08364985325235945
+Muy Bien To all of the people that worry about the comments - Dont'	0.33327703374494927	0.2498469411368204	0.3333645421879537	0.08351148293027671
+Worry this place is worth every penny.	0.33315862155383186	0.24997472257357106	0.3333265802299492	0.08354007564264801
+My husband and myself enjoyed this wonderful resort from July 19 thru July 28th.	0.3331451127941017	0.24993237414803934	0.3333867122525437	0.08353580080531542
+The Staff was great and so was the service.	0.3331880447056302	0.25006994674969313	0.3335332278797092	0.08320878066496766
+You cannot encounter a problem that could not be fixed.	0.3329710083933397	0.2501447336768601	0.3332361109781694	0.08364814695163075
+The Spa was top notch, the restaurants were basically the same as any other resort actually better i.e. Sandals, etc.	0.3331238980893186	0.2498476051677263	0.3333247520339828	0.08370374470897221
+If you want to have the most relaxing and wonderful vacation ever come to Secrets!	0.33348568256136935	0.24978270094616967	0.33346796346147767	0.08326365303098328
+you won't be disappointed.	0.3332382483096512	0.24993506696888562	0.33346251477855837	0.08336416994290485
+ENJOY	0.33317895406925896	0.24983991770885808	0.3334445684082437	0.08353655981363918
+Great location, cost effective	0.33326699063638904	0.24990065557060392	0.33333310637157376	0.08349924742143323
+Hotel is down some side streets 5 minute walk away from the main street of La Rambla with its metro stop of Liceu - so you are within easy reach of the rest of the City via the metro.	0.3333226232023071	0.24976760870976	0.33335381986429774	0.08355594822363518
+Location wise the hotel is great but during the night the side streets were a little daunting and saw a girl get her bag snatched 鈥?	0.33329849858290606	0.24996492201973736	0.333376519387114	0.08336006001024253
+just keep your wits about you and you will have no problems.	0.33351121285869617	0.24978198577137486	0.3332657910636794	0.08344101030624954
+There are lots of lovely local bars and cafes near the hotel 鈥?	0.33316472119357293	0.24996829961781225	0.33332506824125013	0.08354191094736456
+much better value that those of on La Rambla 鈥?	0.33306203582534194	0.2498670195868112	0.3334225945609719	0.08364835002687489
+found lovely tapas bars and ate with the locals.	0.3331576383599544	0.2500267135026063	0.3332430421119358	0.08357260602550357
+Found one bar just down the street taking a right out of the hotel which was a good night and one lovely one set in the walled garden area found by walking out of the hotel taking a left and left again and there is a large wall opposite 鈥?	0.33327258700839857	0.24981120741228183	0.33340897645064527	0.0835072291286744
+go through the large gate and to the left is a lovely little outside bar area 鈥?	0.33331266733402787	0.24984807319853414	0.33339887141151603	0.0834403880559219
+kind of set in a walled garden area.	0.3332032916418882	0.2498642150866148	0.33336614675340054	0.08356634651809638
+Would advise taking a stroll in the opposite direction to La Rambla and exploring the area were you will stumble across the most wonderful bars and restaurants at much better value.	0.33331931376561197	0.24975105016912152	0.3335823929438463	0.08334724312142033
+Took a room on the fourth floor, room was nice and clean, laminate floors throughout and a wonderfully powerful shower, plasma TV 鈥?	0.33319239539938156	0.2498313445908621	0.33351174424748725	0.08346451576226908
+only downside was that the laminate floors meant that when the cleaners came round in the morning the noise from the corridor was greatly amplified.	0.3330109342341066	0.2501240056294919	0.3332838182270561	0.0835812419093453
+Breakfast was continental 鈥?	0.3332849762689362	0.24992094485524813	0.3333654485057486	0.08342863037006702
+ok 鈥?	0.33312482020597933	0.2500407748173166	0.3334057874354214	0.08342861754128257
+as I love a full English breakfast 鈥?	0.33299011631854025	0.2499832400085469	0.33334701777940606	0.08367962589350673
+not so keen on the sausage and egg provided as it wasn鈥檛 what I was used to so I got by on the tea and toast - but everyone seemed to be enjoying it - if you prefer something heartier then there are plenty of cafes around.	0.33300728524503204	0.25009620035070085	0.3332689321157409	0.08362758228852624
+Found the staff helpful and the taxi drivers knew where the hotel was so no trouble finding it.	0.3332402667596603	0.24995072831548937	0.3333343352640412	0.08347466966080917
+Over all I think I would stay here again, location was great and for the price the standard of furnishings and quality was top notch 鈥?	0.33327182134913746	0.24994379394003174	0.33345585324196014	0.0833285314688706
+would recommend.	0.3331876416821931	0.25014353132949385	0.33326981585096876	0.08339901113734426
+Bavaro Palace A group of 10 just returned from the Bavaro	0.333274190677422	0.2498328181069594	0.33341727625644546	0.08347571495917311
+Complex, for my husband and myself it was out 2nd trip to this resort.	0.33301918426978466	0.25007276115153126	0.3333338997003576	0.0835741548783264
+We were pleasantly surprised when we were upgraded from the Beach Resort to the Palace.	0.333253233520473	0.24973566503031364	0.3336104873975618	0.08340061405165172
+All in all, the complex is nice, the beaches are wonderful and the food is pretty good.	0.333399860699193	0.2497325533302513	0.33342237888538906	0.08344520708516673
+One word of caution - drink lots of bottled water and watch the food preparation, making sure your food has been cooked all the way.	0.33343284428301095	0.24972940445861722	0.3333882621916444	0.08344948906672743
+We found the staff to be friendly and plenty of activities for everyone in our group to enjoy.	0.33332964869339515	0.2498824715435359	0.33340597657384224	0.08338190318922663
+Great!!!	0.33355033466215606	0.24965297798127548	0.3334637017757528	0.0833329855808157
+Had a lovely stay at the Langham	0.33303996670955827	0.2500085272764478	0.33340438208515516	0.08354712392883872
+Place during a six day stay.	0.3331439428001331	0.24993462517166953	0.3333997049306293	0.08352172709756799
+Other reviewers have said what we would like to say.	0.33319973875508113	0.2499488843053297	0.333413126865731	0.0834382500738583
+Great location, lovely spa/swimming pool, etc.Slightly put out by the fact that we booked months in advance for an Earlybird rate, to find there were cheaper rates.	0.33314924450836514	0.24994195553674758	0.33342680043239264	0.08348199952249452
+For the length of stay, I would have appreciated the hotel to have offered the best rate, and been able to amend when we arrived.	0.3331262137266833	0.2498971128995895	0.3335483025841801	0.08342837078954723
+So don't always think that booking early is the best.	0.3333751840922202	0.24968480486035816	0.33353625261294717	0.08340375843447434
+But it hasn't put me off the place, and it will definitley be our choice of hotel when we return, which I hope will not be too far away!!!	0.3331482346805877	0.24988205224372698	0.33336997541501134	0.08359973766067412
+Very good experience	0.3330463310318046	0.2498790254501221	0.33370999805759777	0.08336464546047545
+Just stayed night of 14th November 2006, got a very good rate including buffet breakfast from otel.	0.33312657645080074	0.24988210477233358	0.33344450570113754	0.08354681307572806
+com.Ensure you shop around for good rates do not pay Hotel rack ratesFriendly check in staff ,given Excellent double room, very comfy bed and pillows.	0.3331602938290033	0.24997263014135726	0.3334413755217732	0.08342570050786613
+Good Location at the Airport for early departures ,head towards Parking Area 1, via Schipol Plaza after leaving arrivalsA very brief walk back to the Plaza allows you to catch a train to Amsterdam Central, journey time is around 18 minutes and trains run very frequently, Return Journey costs around 7 euros.	0.33323899757626074	0.2499787647860176	0.3334048779859182	0.08337735965180333
+Beware - If paying the buffet breakfast was poor value, Ok for cereals and fruit,poor quality cooked breakfast.	0.3331371332402348	0.24995114749466973	0.333453914962841	0.0834578043022544
+Great hotel with great Staff	0.33349739003863704	0.24976130114003953	0.33348035048631713	0.08326095833500644
+After 5 days in hostels in Waikiki and Honolulu, I stayed for 2 nights at the Coconut Plaza (it was the Aqua when my stay occurred) I really enjoyed this hotel, mostly due to the fact that the staff was so attentive and friendly.	0.3330275444762289	0.2501685165077336	0.33338412836170167	0.08341981065433603
+There's a complimentary breakfast, and I was able to use a courtesy room to shower before my flight.	0.3332084247675806	0.24990609852891515	0.3334401048204103	0.08344537188309381
+My room had a great view of the Ala Wai Canal.	0.33323416046572935	0.2498729863651402	0.33337185846930845	0.08352099469982197
+While not on the beach, I think a lot of travellers put too much emphasis on needing to be beachfront in Waikiki.	0.33306540847823995	0.25002987876031296	0.3332303646322102	0.083674348129237
+Waikiki is small and you can walk to the beach in a short time.	0.33320211580477166	0.25003559855245894	0.33344671980820345	0.08331556583456591
+I really enjoyed my stay here,	0.3328950202256798	0.2501391132072225	0.33341211777502316	0.08355374879207453
+Great Location!!	0.33349462168030986	0.24992377513187516	0.33336867194242903	0.08321293124538598
+We just got back from teh Royal Sonesta.	0.3332620009202414	0.24988728255449957	0.33342968741465573	0.08342102911060323
+I must say the location in superb.	0.3332454308321732	0.25002413265572554	0.33337582168091506	0.08335461483118631
+However, be prepared that most restaurants and hotels are working at half of their usual staff since Katrina.	0.3329864078965505	0.25005848151573234	0.33339381335619095	0.08356129723152618
+You will have to wait in lines to check in and will never see anyone greeting you at the door.	0.3333298946779713	0.24996444686949518	0.333331216365226	0.08337444208730753
+One poor bellman for the hotel the whole time we were there.	0.33306301605208927	0.24985905405910974	0.333448240783263	0.08362968910553809
+Eubanks, the bellman was wonderful!	0.33309734804695634	0.2500410114662398	0.33327129929303434	0.08359034119376946
+Made an excellent recommendation or dinner-Tommy's...you have to eat there!!	0.3333339194294183	0.24977814506331228	0.33338812154369035	0.08349981396357896
+Say hello to him-their best employee!!	0.3332606734664032	0.2498716910030135	0.33345456271944957	0.08341307281113386
+Hotel is beautiful but rooms are a little outdated.	0.33318839884461326	0.2500939442044591	0.3333229836193276	0.08339467333160015
+Stay in courtyard room-very quiet.	0.33320023950847366	0.2497887840548072	0.3336500133317725	0.08336096310494653
+Overall a good expereience.	0.33307331740094986	0.24988366992848632	0.33346976311751614	0.08357324955304764
+Location is worth the other hassles of the hotel.	0.3333092069956022	0.24991260475886967	0.3333638103514819	0.0834143778940464
+Go to Spa Aria at tehhOtel MOnteleone...wonderful services there!! Eat at Muriel's and Tommy's!!!! You won't be disappointed!	0.33322393879900447	0.24988825771345477	0.33342078648148804	0.08346701700605266
+Great location, fantastic staff	0.33344215881536304	0.25005937796646455	0.3334416880913964	0.08305677512677585
+I stayed at the Argonaut for two nights beginning December 16.I arrived very late (after midnight), so I didn't notice the valet parking when I pulled up.	0.333133485262387	0.24991711217587653	0.33345336933991926	0.08349603322181709
+Luckily there was a spot around the corner.	0.33300259025022083	0.2500939937154397	0.33326039187492673	0.0836430241594126
+The valet met me at the door, let me in, and was very pleasant.	0.3330432404833482	0.2499671669993731	0.333283112432643	0.08370648008463562
+The desk clerk was equally friendly and I was on my way to my room (482) in a minute or two.Upon entry, I was surprised at how small the room was.	0.33297438403818475	0.2500166355920367	0.33337932347240945	0.08362965689736908
+It was also pretty cold.	0.333093554621494	0.25011084330642164	0.33317558721251583	0.08362001485956852
+Otherwise, it was nicely decorated and cozy.	0.3330794374118176	0.24993314875900066	0.33337982642464514	0.08360758740453646
+The iPod-dockable clock radio was on and softly playing some classical music.	0.33312202245415934	0.24994091192686577	0.3333024264374757	0.08363463918149909
+Because I am an inTouch member, a gift of a bottle of water and a bar of chocolate were waiting for me on the nightstand.	0.3330806932124788	0.24986901299681882	0.3333072991109667	0.08374299467973575
+Another pair of chocolates lay on the pillow.	0.3330383469289615	0.24999171156525002	0.3332286258379639	0.0837413156678245
+I thought that was a nice touch.	0.3331311774479678	0.24998698389210502	0.33329823403448505	0.08358360462544207
+I turned on the heat and the room was at a comfortable temperature by the time I had finished unpacking.	0.3330691215261079	0.2500269569056784	0.3333096942549896	0.08359422731322425
+The bed was extremely comfortable.	0.33323079746232337	0.25019203501739967	0.3331393557198719	0.08343781180040505
+The room was very clean.	0.33327186536804293	0.24968059804219936	0.3338955526766325	0.08315198391312514
+The shower was hot and the water pressure strong.	0.33320872731571	0.24997851446142608	0.3333346833991898	0.08347807482367402
+The bathroom amenities were L'Occitane.	0.33331442084233354	0.24979437194454407	0.3334662985552754	0.08342490865784698
+The only lapse in the otherwise excellent service was at breakfast the following morning.	0.33310600578980265	0.24997663960980768	0.33342078082434584	0.08349657377604373
+I had been given vouchers for a continental breakfast at check-in.	0.3331961326268154	0.24990929829245398	0.3334413677882758	0.08345320129245472
+I was hungry for a bit more than that and ordered eggs and sausage.	0.33310406383306657	0.24996734828378064	0.3332764983501391	0.0836520895330136
+The waiter brought eggs and bacon instead.	0.3331439895812392	0.24990514127344468	0.33329227077580703	0.08365859836950906
+When I pointed out the mistake, he returned with sausage, then disappeared.	0.3329265876288244	0.2501659262396259	0.3332400791047039	0.08366740702684576
+I had to flag down the hostess in order to get my check.	0.3331070778721687	0.25019950482897957	0.333172644040611	0.0835207732582407
+The food was excellent.	0.33352020749649314	0.24968469124591083	0.3334855235059635	0.08330957775163245
+With that sole exception, the service was every bit as good as I've come to expect from the Kimpton brand.	0.33302635037864853	0.24997056350952224	0.333463052972578	0.08354003313925122
+Thanks to a busy work schedule, I did not get to spend much time in the area around the hotel.	0.33287362217416266	0.2502717315864018	0.3331791795524992	0.08367546668693646
+From what I saw while driving, the neighborhood is very picturesque.	0.33332688347610767	0.24976171116661486	0.3333647819087273	0.08354662344855009
+This would be a great home-base for exploring the Fisherman's Wharf area.A note for the budget-conscious: the parking rates are outrageous - $39/day plus tax (and tip) for valet parking.	0.33302535443746684	0.2500216535657075	0.3333633493154608	0.08358964268136475
+In their defense, it's my understanding that parking in San Francisco is uniformly insane.I would definitely stay here again.	0.33308665242280905	0.2499787596235523	0.33346493460714643	0.08346965334649212
+LOVED IT...LOVED IT...LOVED IT...	0.33321122448714247	0.2500336384561869	0.3334124533832618	0.08334268367340886
+Don't hesitate to stay here unless you are upper class American and only expect the very very best.	0.3333169607200839	0.2497525125375394	0.33358833249745795	0.08334219424491875
+For the price you pay this resort is awesome.	0.33323274139147885	0.24982133471433232	0.3333874523490273	0.08355847154516145
+I have been to Punta Cana before and stayed at a Riu resort which was nice but I liked this much better.	0.3331390245404556	0.24992098085660597	0.3334563412604805	0.08348365334245787
+I am from middle class america and I was very satisfied.	0.33324435183344925	0.24991433880135824	0.33349366118931634	0.0833476481758761
+I went with my daughter and my 2 grandsons.	0.33308778670549555	0.25004997475684165	0.33334632665065883	0.08351591188700411
+They had a blast.	0.3330768950017814	0.2500976978219628	0.33326274676985634	0.08356266040639938
+It kills me when people put in these reviews about no hot water and a long check in etc.	0.33305779977060523	0.24999270615552785	0.33318801677556753	0.08376147729829937
+You are in another country people.	0.3331638686162526	0.24997693878861263	0.3332473028999015	0.08361188969523325
+Not America.	0.33284712276290657	0.2501586837427783	0.33327191299007347	0.0837222805042416
+Deal with it.	0.3331044976309333	0.25004006180925026	0.3332574277276331	0.08359801283218332
+They don't have water systems like we do.	0.3330980905853338	0.24995368192366815	0.3333525567648095	0.08359567072618865
+If you expect 5 star service then don't leave your country where you have all the modern facilities.	0.3333740037193479	0.2497895678411239	0.3334101016852477	0.0834263267542804
+We only had to take a cold shower one day and it gave us a good laugh.	0.33303332859429746	0.25000224972894985	0.33343428898154753	0.08353013269520508
+Check in couldn't have been any smoother.	0.3332338316787925	0.2498485556237353	0.33344570434918586	0.08347190834828626
+We arrived at noon and were in our room at 1.	0.3332922910536197	0.24960290528788415	0.3336656618022846	0.08343914185621149
+Food was great, pool is awesome.	0.3335503239994188	0.2495861122948533	0.33355236656558235	0.08331119714014548
+Swim up bar fantastic, beach is beautiful and on and on.	0.33333176100302836	0.2499687440065818	0.33337852603338197	0.08332096895700779
+So bottom line is if you are an average american like me go to this resort.	0.33299923491570765	0.2501088885592817	0.33321645815921336	0.08367541836579721
+It is wonderful.	0.33320102603960244	0.250045460715462	0.333350953895406	0.0834025593495294
+email me any questions and I will gladly answer them.	0.3333172160864082	0.24987006413288612	0.3333479251123986	0.08346479466830699
+And please ignore the negative comments.	0.3332323386679725	0.2499189778016493	0.3333414137205123	0.0835072698098658
+They are unfounded.	0.3330359211535404	0.2501763278688063	0.33318297642099043	0.0836047745566628
+LOVED the Hotel Lungarno	0.33320999264156315	0.24997261348300465	0.33339589524965224	0.08342149862577991
+My husband and I spent 5 days in Florence and 5 in Rome for our honeymoon and I really belabored over picking some good hotels.	0.33309366439663124	0.24979545542343495	0.3335563679206751	0.08355451225925882
+I studied in Florence, so the pressure was on.	0.33301952761901293	0.25001394708490954	0.3333433934402087	0.08362313185586892
+I struck gold with the Hotel Lungarno.	0.33316782316202803	0.24993815910585013	0.3333455078444258	0.08354850988769601
+It was fantastic.	0.3331803845578845	0.25016808585469746	0.333466504249709	0.0831850253377091
+The location is PERFECT.	0.3332417036764094	0.250064053258858	0.3332870790293549	0.08340716403537766
+The room was a great room - had a balcony and view of the Boboli Gardens and the Uffizi.	0.333257302399279	0.24987463400924195	0.33344689509088976	0.08342116850058928
+They upgraded us for free.	0.3329151091739896	0.2500240831122444	0.3333873100450578	0.08367349766870819
+It was a great boutique hotel that had the personal feel that I was looking for.	0.3329174141066008	0.2501961214731657	0.33332900924809156	0.08355745517214193
+The lounge area overlooking the Arno was a great place to relax at the end of the day and get a few glasses of wine before heading out for dinner.	0.3332466431285867	0.24986331702188358	0.3334123827292317	0.08347765712029812
+I loved this hotel and would recommend it to anyone.	0.3331757181797451	0.25024834638765503	0.33333185578674485	0.0832440796458549
+Never Again Where do	0.3329971784387656	0.25006652015994824	0.3332496096133407	0.0836866917879454
+I start?	0.33319902216516994	0.24988220704196193	0.3334015422933255	0.08351722849954255
+Arrived after a long journey and went to our room on the fourth floor.	0.3331106477022076	0.24997684863654357	0.33338721195450294	0.08352529170674583
+One of the smallest rooms in any Best Western I have stayed in.	0.3333225357216476	0.24975030938978143	0.33348574886324944	0.08344140602532141
+Decore was nice and clean, beds comfortable and we did have a fridge.	0.3333145290694751	0.2498729259075511	0.33349001804941747	0.08332252697355645
+However window was wide open and was broken.	0.33307323372788067	0.25009856584865653	0.33326526708149157	0.08356293334197129
+We asked at front desk and then said they would send someone up in 10 minutes, over 1 hour later no sign so we asked to move rooms.	0.3329180585226801	0.2502214620860496	0.3332005843203553	0.08365989507091488
+The concierge was useless - un-helpfull and a waste of time.	0.33305949210405156	0.250008173865451	0.3332431603380902	0.08368917369240718
+Told us about a vegaterian restruant that had closed down years ago, a dry cleaners that was also shut.	0.3331112351508196	0.25003977761305984	0.3333163287583533	0.08353265847776734
+So we are in our new room, no double glazing and god could you here the traffic.	0.33319685779716784	0.2498467066357694	0.333545242721791	0.08341119284527183
+Dumper trucks, buses etc all from 4am....not much sleep at all.	0.33321161225238116	0.24990981133470613	0.3333882736162652	0.08349030279664743
+Over rated and over priced.	0.33319363412643593	0.24986968728435155	0.3334200917433187	0.08351658684589393
+The only good hting was the location.	0.332937651420791	0.25015828992437245	0.3333678886306371	0.08353617002419939
+It should be ashamed to call it's self a Best Western.	0.33317632954154147	0.24997996060643163	0.33335621021756673	0.08348749963446013
+Assault I really liked this hotel in times past and as a travel agent for a very large reputable firm have sent quite a bit of business their way, however was gravely dissapointed by the way in which	0.3329954883106376	0.2500114955633095	0.33344551329782807	0.08354750282822479
+Hyatt neglected to ensure our safety and security!	0.33325453141098826	0.24983058600550234	0.33342085373233493	0.08349402885117438
+My family, friends and I were attacked and assaulted right in the jacuzzi and the hotel staff did nothing to prevent or stop this until it was too late.	0.33317228065345833	0.2500501195140054	0.33337512994706864	0.08340246988546776
+Then when it was over and the police came the hotel manager on duty refused to remove the assailants from the property as he said they were victims too when it was apparent these heavily intoxicated people perpetrated the act.	0.3329517329863726	0.2502176317284362	0.33325575321589307	0.08357488206929824
+For example, the primary assailant attempted to murder one of my traveling companions as her hair was pulled and head held under water while her husband who shouted sexual obsenities toward us watched.	0.33308471812062745	0.2500341639205899	0.3333466722194718	0.08353444573931078
+Hyatt failed to take care of us before and after this incident and for that I can never recommend them again.	0.3330201852255826	0.25015209424131146	0.33328948811461295	0.08353823241849302
+Very refined Got a great deal on the internet (40% off advertised rates) and used it as a one night stopover en route back to Heathrow.	0.33316508477956347	0.24995135696871582	0.3333231852955733	0.08356037295614753
+Building is impressive (although dwarfed by surrounding financial HQs and the like) and about a 15 minute cab ride from the airport.	0.3333019005135989	0.24997646412107608	0.3331761230279412	0.08354551233738368
+Staff are superb throughout the hotel.	0.33320403049755914	0.2500834901957001	0.3333406815413466	0.08337179776539407
+Our room was a bay view - all fittings were excellent and my wife revelled in the bath.	0.3333212600113362	0.24979981621502634	0.3335315362924642	0.0833473874811734
+And the ridiculously overpriced spa where she had a number of treatments, all preceded by the ringing of a small bell.	0.3332002884784933	0.24996467516236337	0.3333134841578991	0.08352155220124437
+Ahem.	0.3331236030916293	0.2499520906969888	0.3333391871842966	0.08358511902708518
+We ate in the Cafe/restaurant where the food was very good and again, the service top class.	0.33299562114348497	0.25003357876511295	0.33345187849207764	0.08351892159932442
+If you can get the rate this is a great stopover and the staff have a lot of nice touches like getting us some water for the cab ride back to the airport.	0.3333590481700273	0.24990945340999396	0.3333440421004088	0.08338745631956992
+Excellent hotel, superb staff.	0.3333816463596258	0.24987898511248666	0.333395059415786	0.08334430911210146
+I spent 11 nights in the Wyndham Boston, and found it to be an excellent hotel.	0.33334505111354673	0.24992711674694632	0.3333864496450529	0.08334138249445404
+Staff were top-notch, and quality of service second to nothing.	0.33298784673237297	0.25010374062872753	0.33325590661133586	0.08365250602756356
+Only small gripes would be, no pool and tiny Gym.	0.33304230559048165	0.24991660308289354	0.3334182088547564	0.08362288247186829
+Tip-join their members club (free) via their website before you book, and then you truly get treated royally .i.e upgrade to suites, free calls, free welcome snacks, daily papers etc.	0.33316482241599615	0.249922355274733	0.33324638529937356	0.0836664370098972
+Great Location- ok hotel	0.3333938605646799	0.2499863524134296	0.3334473261583928	0.08317246086349765
+Just returned from a 5 night stay at the waikiki beach hotel.	0.3332653044912237	0.24993726095372418	0.3333940310551404	0.08340340349991181
+I booked the room to have a ocean view room, the first room did have a view but mostly of the hotel across the street.	0.3331378978690237	0.24998223132279804	0.3335080699597452	0.08337180084843301
+Went to speak with reception and they moved me to a better room.	0.332834545799528	0.2503064986884818	0.3332090356807202	0.08364991983126997
+Ask for room with an odd number thats starts over 13.	0.3329942407264048	0.25006345844548755	0.33336975502978583	0.0835725457983219
+The breakfast was not worth it, better to walk to the corner and grab a starbucksThe best thing about the hotel is that the beach is across the street.	0.3333019399289431	0.24998228597634786	0.33346403299850025	0.08325174109620875
+Little Gem and close to all you want to see in Madrid	0.3334583466945205	0.24984483914847186	0.3333798874280069	0.08331692672900069
+This is wonderful hotel-finished to a high standard.	0.33302928616874616	0.25009764710534865	0.33329300869688705	0.08358005802901826
+If you don't want to stay in a hi tech hotel (of which there are many in Madrid) and prefer a bit of old Spain - stay here.!	0.3332479388591104	0.2498267110988499	0.3334580499554813	0.0834673000865582
+The rooms are very comfortable with a beautifully done separate bathroom.	0.33330583818953524	0.2499979089011704	0.3332351586131515	0.08346109429614275
+Ours had a walk in shower room- very luxurious for a 4 star and air conditioning- which we did need in Feb as hotel was a bit too hot for us.This hotel is surrounded by great little bars and resturants- stay off Santa Ana for value and is walking distance to all the other major points of interest.	0.3331415452375178	0.24988405423065585	0.33362585141817214	0.08334854911365426
+(musems, Sol,La Latina, Plaza Mayor,Palacio Real, Gran Via)).	0.3331114833744378	0.24994951659620102	0.33335523920248583	0.0835837608268753
+We didn't get the metro once.	0.33305518351068086	0.249997501809195	0.3333195592104772	0.08362775546964708
+Madrid is fabulous and I hope to return when the weather is warmer.	0.3330762245749769	0.2499964875845324	0.33327718773132525	0.08365010010916542
+I would recommend this hotel to anyone who likes a bit of style and comfort.	0.33315939275365386	0.2500072835052977	0.3333827111347	0.08345061260634834
+The value was brillant- room BB per night was 99euro- a bargain.	0.3330790583017396	0.25004118940682946	0.3333835503040465	0.08349620198738454
+I've don't have any photos but I would say that the hotel web site photos do not do this Hotel justice.	0.33312270946482847	0.25002197093205564	0.333377664669119	0.08347765493399681
+Also this is a safer area than say- Sol and the Gran Via-where I saw an attempt at pic-pocketing etc at night time.	0.333158557783167	0.2499277598951035	0.3333741481469397	0.08353953417478976
+Be careful where you stay in this city.	0.3331625456197794	0.25006727514609267	0.33329710231557047	0.0834730769185573
+We're glad we stayed on Calle del Prado at this hotel and will stay here again!!	0.3331552276568592	0.24989529427362198	0.33358911698506555	0.0833603610844532
+Brilliant Hotel We stayed in this hotel for our honeymoon and i was nervous about staying here as i had booked it online.	0.33311355102303347	0.24996694504546232	0.333610170281185	0.08330933365031924
+It was delightful - very central to everywhere.	0.33325903171247995	0.2499427643621195	0.3334450406648455	0.0833531632605552
+The room we stayed in was large and airy and i loved coming back to the room each night to find the bed turned down and two mini toblerones on each pillow.	0.3331783987789483	0.2499679071237309	0.33335093482798334	0.08350275926933758
+Had breakfast in the restaurant on our first morning there but i didn't think it was worth the money but that was just us we didn't like the food there was and we were able to go to a juice bar or a bakery or grocers and get something far cheaper and much more to our taste.i would definately go back here again.	0.33337153960505966	0.24972349977044178	0.3336781714027927	0.08322678922170597
+Great customer service	0.3332284843873483	0.24987277702025024	0.33350987662690296	0.08338886196549844
+My two sisters and I get together once a year or so to have a fun NYC weekend, and it's important for us to stay together.	0.333082158696397	0.2500315934859774	0.33339789191524405	0.08348835590238167
+This hotel was the only one in our price range that would guarantee separate beds.	0.33315482381484696	0.24992952437957894	0.333427895441551	0.08348775636402303
+We had a very large room with two queen beds and a large (and comfortable) sofa bed.	0.3333533964279012	0.24978883477654704	0.33349724410951326	0.08336052468603855
+The obviously new beds and bedding were super-luxurious.	0.3332017240615802	0.2499106853380639	0.3333863321701027	0.0835012584302533
+All of our requests were accommodated (high floor, refrigerator, extra towels, etc.)	0.33325239307073623	0.24973012911689454	0.3334058128770026	0.08361166493536655
+My working sister appreciated the free wi-fi.	0.3330473384782773	0.24998742101593574	0.33327278476421357	0.08369245574157333
+And most important of all, the service people - front desk, bellmen, restaurant staff, housekeeping - were beyond helpful, cooperative, cheerful and friendly.	0.33326849437933354	0.2498059887078687	0.3334978560396553	0.08342766087314259
+I highly recommend this hotel for families and/or friends who want to hang out together instead of booking small separate rooms.	0.3330733143768593	0.2500178245914522	0.33333596286694056	0.0835728981647479
+We will definitely return.	0.3334488736627327	0.24956651997188056	0.3336689250318536	0.08331568133353322
+Travelled with three children	0.3332007255872815	0.24987414530668903	0.333359534535531	0.08356559457049839
+My three children ages 9, 14, 16 and I stayed at the El Conquistador from Jan 20-25, 2007.	0.3332845699262548	0.24986264513989873	0.3334038576770928	0.08344892725675358
+We had a one bedroom suite on the fourth floor adjacent to the Golden Door Spa.	0.3330157066691387	0.250043751560595	0.3332412135370117	0.08369932823325453
+Our room was beautiful and spacious and if you can afford it, I highly recommend the bigger room when staying with children.	0.33326456458975795	0.249905701992304	0.33342064950232314	0.08340908391561484
+The main entrance to the suite was awe inspiring.	0.333036897691309	0.25012162591111126	0.3332611357309791	0.08358034066660054
+We just said WOW!.	0.3331635057387673	0.24987753157341874	0.3334111353998365	0.08354782728797755
+To the left of the open foyer was the bar.	0.33322038562940737	0.24996402714078073	0.33326411044926374	0.08355147678054811
+It had a marble countertop, two cushioned bar stools w/ backs, two refrigerators under the sink/countertop.	0.3331959912372495	0.24986012593132403	0.33332869326847564	0.08361518956295096
+The dining room had a six seating table, the living room had several wicker chairs w/ cushions a nice sofa and a full sized bed that you pulled out of the wall.	0.33315494581556954	0.250003533612264	0.33338936328545493	0.08345215728671161
+The view of the ocean and Palomino Island was breathtaking.	0.33323270483663314	0.24987933559106093	0.33337243776455905	0.08351552180774682
+Down the hall was the bathroom with shower, safe and toilet room (yes the toilet is in it's own room).	0.33316863693264176	0.2500226484980006	0.3333379396253962	0.08347077494396156
+The master bedroom had a king sized bed, walk-in closet, master bath with whirlpool, shower and toilet room.	0.3332230489882941	0.24996971743322097	0.3333681899126392	0.08343904366584565
+It also had a wet bar with mini bar fridge under the sink.	0.33319089916071787	0.24996465729052936	0.33330842444297515	0.08353601910577751
+It had a beautiful entertainment cabinet with a tv, dvd player and Sony Playstation.	0.3332164362362183	0.2499523375208636	0.3333641768417076	0.08346704940121055
+You have to rent the games though.	0.33326469931367936	0.2499648368146185	0.3333496008465563	0.08342086302514574
+There was a small living room off of the master bedroom with a single pull-out sofa bed with tv the works as well.	0.33301709832201903	0.2500337216709185	0.33340337853473095	0.08354580147233166
+The suite was beautifully decorated with a sort of Island Pottery Barn look.	0.3330351527603833	0.2500826037505293	0.3332316074796881	0.08365063600939923
+The food was spectacular at every restauarant we went to.	0.3331517895113665	0.24993476962002506	0.3334406311076641	0.0834728097609443
+It is VERY expensive though.	0.3333144795796583	0.24988450036281915	0.3335082710233677	0.08329274903415483
+It's about $17 for a salad or hamburger and at the restaurants everything is ala carte, ie: $9 for a baked potato.	0.33314513779042865	0.24982540650165996	0.3334778114085376	0.08355164429937387
+But we did not have one bad meal.	0.33293240473391106	0.2500852161705481	0.33352586467905204	0.08345651441648874
+The service is also very good.	0.3331358947684576	0.24988570351458347	0.3336442415586909	0.08333416015826794
+Taking the funicular down to the marina was a bit of a project.	0.3331849158799661	0.2498784194808093	0.33330382225873584	0.08363284238048888
+You couldn't just walk down and go to the beach.	0.33344563791654414	0.24983402824263926	0.33338037924358144	0.08333995459723521
+You had to take the funicular down to the marina and wait for the ferry to take you to the private island where the beach was.	0.3332998386045924	0.25008559228071775	0.33325244260805026	0.08336212650663952
+The ferry ran every 1/2 hr and only took about 8 minutes to get there, but we just missed the ferry and had to sit and wait for the next one so from the time we left our room it was about 45 minutes until we got to the beach.	0.33324670845290294	0.249958559493773	0.33348964302071205	0.08330508903261216
+But when you get there it is worth the wait.	0.3332903732769358	0.2499046998434209	0.3334334998608675	0.08337142701877577
+We were on vacation and in no hurry to do anything.	0.33322907089537623	0.24975850895452606	0.333370002991727	0.08364241715837066
+Once we got to the island it was paradise.	0.3330363812875308	0.2501519363566577	0.333325056949034	0.08348662540677732
+You can rent innertubes or floats (about $10 for the day each).	0.33325318540404636	0.24982779276925415	0.33340146384964164	0.0835175579770578
+There is also jet skiing, snorkeling, etc.	0.33324179046916214	0.2499520546567612	0.33327338095501835	0.08353277391905821
+For a fee of course.	0.3330763472185479	0.24992463029417752	0.3333146437214668	0.08368437876580771
+Don't expect ANYTHING to be included.	0.33311475527357937	0.24988094076192116	0.33332718894417307	0.08367711502032636
+They charge you for everything.	0.3330805654067713	0.2500854842026876	0.3333362204668647	0.08349772992367638
+If I had one complaint to make about our stay it would be the problem w/ our shower.	0.33338662617407544	0.2498092437255556	0.3335093781973046	0.08329475190306446
+We rarely ever had hot water and everytime I called for help they told me they're having problems with the steam.	0.33294589384809575	0.25013493529361314	0.3332471032289296	0.08367206762936162
+One day we had no hot water at all.Mostly though it was a positive experience.	0.33322244277665264	0.2498038264507921	0.3335465278186022	0.08342720295395295
+great little hotel	0.3335473535794094	0.24978426354153455	0.3334817813477979	0.08318660153125829
+We were very pleased with the Hotel Andra, which is downtown in the Belltown area.	0.3332187535151974	0.24981432444245147	0.3335255512315412	0.08344137081080996
+We had a spacious, well-decorated room.	0.33316098373061814	0.2499157177721825	0.3335426552473947	0.08338064324980461
+The hotel staff was pleasant and extremely helpful.	0.33325769677806044	0.25002390329153834	0.3334408193059697	0.08327758062443166
+Hotel is half dozen blocks from Pike Place market, Seattle Art Museum.	0.33320884497870973	0.24992364021174474	0.33340180869688424	0.08346570611266123
+Hotel offered free business center services(computer with internet access and printer).	0.3329587893751797	0.24998411867957615	0.33327550842219206	0.08378158352305207
+The attached restuarant, Lola, served breakfast (and lunch and dinner, which we did not try), and seems to be open late.	0.333061474656179	0.25010842695570634	0.33329552741443813	0.08353457097367643
+Hotel is not very large; its has an intimate feel.	0.33302292465422345	0.24986412134555044	0.33336286745808896	0.08375008654213707
+Noisy on Weekend	0.3329571525763119	0.2500782097846665	0.3333476996045628	0.08361693803445876
+Just spent 5 days at Hilton with wife and two teenagers.	0.3332448333380233	0.249824322788067	0.33335350186800533	0.08357734200590453
+Had a room on 9th floor overlooking Coit Tower and the Bay.	0.3329625299361739	0.2500845866378106	0.33335632197330645	0.08359656145270915
+Good location close to Chinatown and Little Italy.	0.3331375064167636	0.2500222436332695	0.3333947676694734	0.08344548228049355
+Nice room although small.	0.3330406851515193	0.25002537080622605	0.3334330694300769	0.08350087461217774
+Staff was friendly although I often had trouble finding someone at the Concierge desk.	0.33310720340060795	0.2500697388689495	0.3332282893905026	0.0835947683399399
+Biggest complaint was the street noise especially Friday and Saturday nights.	0.3332031641184738	0.24999997395748996	0.3333987712118065	0.08339809071222988
+If you do stay there and even if you don't, make sure you have dinner at House of Nanking on Kearny - excellent!	0.33340207004748595	0.24974311571460694	0.33339317856065	0.08346163567725712
+Loved the Outrigger	0.33319116490656175	0.24997459780663442	0.33336303012362034	0.08347120716318342
+I just want to say thanks to everyone that write on this site.	0.33306744574652325	0.25011073544642276	0.3331868064043248	0.08363501240272914
+It was very helpful.	0.33322656425213004	0.24998707550898938	0.3335810697467958	0.08320529049208475
+Where do I begin.	0.3331392675662434	0.24999056478756615	0.33326941652499587	0.08360075112119453
+Well, let me just say that I have a great time at the Outrigger.	0.3332123554045237	0.24987033840460698	0.33339713897563394	0.08352016721523528
+It was a very nice, clean hotel.	0.3334369099916474	0.2495873458269105	0.3338196130964166	0.08315613108502545
+I didn' have any problems at all.	0.3333787289707711	0.24974444030827922	0.33362118112797107	0.0832556495929785
+The location was the best.	0.33350757275063236	0.24981437135122772	0.3335563235934538	0.08312173230468604
+It was in walking distance to all the major stores and resturant.	0.3333109851161794	0.24992718014381746	0.333402416318479	0.08335941842152407
+The staff was very friendly and courteous.	0.33341124901681285	0.24985536308318793	0.3334470446453799	0.08328634325461934
+The activity desk was very knowledgeable about the activities that you can do.	0.33325449290093256	0.24996457646097195	0.33329360093476146	0.083487329703334
+We loved Dukes Resturant.	0.33320340524238495	0.2499102628645535	0.3334577312386237	0.08342860065443795
+The only thing that I didn't like was the birds that walked freely around the resturant.	0.33289898328474743	0.2501698440461263	0.3332444895692015	0.08368668309992466
+If you can, upgrade to an Ocean Front Room!!!!	0.3332133597459848	0.2500105735893835	0.3333186327850021	0.08345743387962953
+We were in room 711.	0.3330948723046362	0.2498569650350918	0.3335760298406332	0.08347213281963872
+The hotel was remodeling, but it wasn't a bother at all.	0.3332289492653796	0.24987340621105214	0.33356352096327946	0.08333412356028873
+I never head anything while staying there.	0.3331070943139304	0.2498842908374446	0.3332825136866383	0.08372610116198664
+I like that the hotel was offer free vows renewal which we did.	0.3330598110035639	0.25004113913749004	0.33327778894713056	0.08362126091181545
+We were there for our 2nd anniversary.	0.3333194877093327	0.24954504041989786	0.3337150467072483	0.08342042516352109
+It was free so we did it.	0.3329761495549112	0.25010893170035603	0.3334068350024656	0.08350808374226726
+It was nine couples all together.	0.3331961728001785	0.24994218993027692	0.33335043624278876	0.08351120102675577
+It was a couple who got married just 2 days ago.	0.3331718252313973	0.2499943108079372	0.33336573082256876	0.0834681331380966
+I can go on and on about the Outrigger, but I will end it here.	0.33316359621259073	0.2499204622711211	0.3333816127651145	0.08353432875117374
+Just go and have fun!!!!!	0.333229405427942	0.2498869037678485	0.33336078348659176	0.08352290731761766
