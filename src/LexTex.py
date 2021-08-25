@@ -16,7 +16,7 @@ class LexTex:
 	def __init__(self):
 		self.trainingDataDirectory = '' # the directory that contains the training resources
 		self.lexiconName = ''  			# the name of the resulting lexicon
-		self.mode = ''     		 		# the default mode for using UKB. ppr is used by default
+		self.mode = 'ppr_w2w'     		 		# the default mode for using UKB. ppr is used by default
 		self.categoriesNumber = 0		# the number od categories. There must be at least categoriesNumber columns for each text
 		self.ctxData  = {}				# the dictionary that associates each context with the list of weights. There is a context. for each text
 		self.categories = []
