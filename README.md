@@ -6,16 +6,14 @@ LexTex is a python developed tool that enables to build new lexicons starting fr
 Authors: Danilo Dessi' and Diego Reforgiato Recupero
 
 
-
-
 # Contents
 <strong> src/ </strong> contains source codes for building a new WordNet synsets-based lexicon. It also includes a script for labeling new resources with the generated lexicon. 
 
-<strong> training_data/ </strong> contains training data we have employed to build our lexicons.
+<strong> training_data/ </strong> contains training data that is employed to build our lexicons.
 
-<strong> test/ </strong> contains test data and scripts for the evaluation.
+<strong> test/ </strong> contains test data and scripts used for the evaluation.
 
-<strong> lexicons/ </strong> contains all lexicons built and evaluated in our work.
+<strong> lexicons/ </strong> contains all lexicons built and evaluated in this work.
 
 <strong> results-supervised/ </strong> contains the scores predicted with the supervised methods Decision Trees, Random Forests, and Support Vector Machine
 
@@ -36,15 +34,14 @@ Python version >= 3.6
 
 Java version >= 1.8
 
-Install other requirements with: pip3 install src/requirements.txt
+Install other requirements with: pip3 install -r src/requirements.txt
 
 Finally, download the stopwords module of nltk with python3 -m nltk.downloader stopwords
 
 ## Other software
-LexTex uses corenlp-server and ukb-3.1 in its pipeline. Please use the versions we indicate.
+LexTex uses corenlp-server and ukb-3.1 in its pipeline. Please use this versions.
 
-
-* <strong> ukb-3.1/ </strong> can be downloaded from http://ixa2.si.ehu.es/ukb/. Extract the archive under the LexTex directory. Compile its KB following the point 1.2 of its README. In our experiments we employed the version 3.0 of WordNet.
+* <strong> ukb-3.1/ </strong> can be downloaded from http://ixa2.si.ehu.es/ukb/. Extract the archive under the LexTex directory. Compile its KB following the point 1.2 of its README (see readme under the ./script directory). In our experiments we employed the version 3.0 of WordNet.
 
 * <strong> stanford-corenlp-full-2018-10-05 </strong> can be downloaded from https://stanfordnlp.github.io/CoreNLP/. Extract the archive under the LexTex directory. 
 
@@ -55,7 +52,7 @@ Accepted parameters are:
 
 * -d, --directory <value>: the direcry that contains all resources that will be employed to generate a new lexicon (<strong>mandatory</strong>)
 
-* -m, --mode <value>: the mode with which UKB will be used by the Word Sense Disambiguation Module
+* -m, --mode <value>: the mode with which UKB will be used by the Word Sense Disambiguation Module. The default mode is *ppr_w2w*.
 
 * -c, --categories <value>: the number of categories (<strong>mandatory</strong>)
   
@@ -84,4 +81,7 @@ Input files must be added into a unique directory. Each row of a file must conta
 
 # Output
 The output is a lexicon where in each row there is a WordNet synset and a value for each input category. See the directory lexicons for examples.
+  
+Planned developments and fixes:
+  - adding the headers to columns of generated lexicons
 
